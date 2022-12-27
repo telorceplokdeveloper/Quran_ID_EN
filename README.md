@@ -1,4 +1,4 @@
-# Quran JSON API | بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
+# Quran JSON API INDONESIA - ENGLISH | بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
 
 Simplified Perfect Complete Quran JSON (Indonesian Translation, Tafsir, and Audio) Along with the REST API. Please use it as best you can and have a blessing.
 
@@ -16,7 +16,7 @@ Simplified Perfect Complete Quran JSON (Indonesian Translation, Tafsir, and Audi
 
 ## Real app that uses QuranJSON
 
-- [Quran Daily: Unlock Your Heart (iOS)](https://apps.apple.com/us/app/quran-daily-unlock-your-heart/id1494995253)
+- [Pemuda Hijrah Apps Android](https://play.google.com/store/apps/details?id=id.my.tsigroup.pemudahijrah)
 
 Add your application to this list with a pull request
 
@@ -48,11 +48,11 @@ Can be directly accessed through the directory.
 Quran:
 
 ```sh
-https://raw.githubusercontent.com/penggguna/QuranJSON/master/quran.json
+https://raw.githubusercontent.com/telorceplokdeveloper/QuranJSON/master/quran.json
 ```
 
 Surah:
 
 ```sh
-https://raw.githubusercontent.com/penggguna/QuranJSON/master/surah/1.json
+https://raw.githubusercontent.com/telorceplokdeveloper/QuranJSON/master/surah/1.json
 ```
