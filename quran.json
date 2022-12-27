@@ -1,1369 +1,2508 @@
 [{
-  "name": "Al-Fatiha",
-  "name_translations": {
-    "ar": "الفاتحة",
-    "en": "The Opening",
-    "id": "Pembukaan"
-  },
-  "number_of_ayah": 7,
-  "number_of_surah": 1,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Baqara",
-  "name_translations": {
-    "ar": "البقرة",
-    "en": "The Cow",
-    "id": "Sapi"
-  },
-  "number_of_ayah": 286,
-  "number_of_surah": 2,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/002.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Aal-Imran",
-  "name_translations": {
-    "ar": "آل عمران",
-    "en": "The Family of Imraan",
-    "id": "Keluarga Imran"
-  },
-  "number_of_ayah": 200,
-  "number_of_surah": 3,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/003.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "An-Nisaa'",
-  "name_translations": {
-    "ar": "النساء",
-    "en": "The Women",
-    "id": "Wanita"
-  },
-  "number_of_ayah": 176,
-  "number_of_surah": 4,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/004.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Ma'ida",
-  "name_translations": {
-    "ar": "المائدة",
-    "en": "The Table",
-    "id": "Hidangan"
-  },
-  "number_of_ayah": 120,
-  "number_of_surah": 5,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/005.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-An'am",
-  "name_translations": {
-    "ar": "الأنعام",
-    "en": "The Cattle",
-    "id": "Binatang Ternak"
-  },
-  "number_of_ayah": 165,
-  "number_of_surah": 6,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/006.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-A'raf",
-  "name_translations": {
-    "ar": "الأعراف",
-    "en": "The Heights",
-    "id": "Tempat Tertinggi"
-  },
-  "number_of_ayah": 206,
-  "number_of_surah": 7,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/007.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Anfal",
-  "name_translations": {
-    "ar": "الأنفال",
-    "en": "The Spoils of War",
-    "id": "Rampasan Perang"
-  },
-  "number_of_ayah": 75,
-  "number_of_surah": 8,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/008.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Tawba",
-  "name_translations": {
-    "ar": "التوبة",
-    "en": "The Repentance",
-    "id": "Pengampunan"
-  },
-  "number_of_ayah": 129,
-  "number_of_surah": 9,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/009.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Yunus",
-  "name_translations": {
-    "ar": "يونس",
-    "en": "Jonas",
-    "id": "Yunus"
-  },
-  "number_of_ayah": 109,
-  "number_of_surah": 10,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/010.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Hud",
-  "name_translations": {
-    "ar": "هود",
-    "en": "Hud",
-    "id": "Hud"
-  },
-  "number_of_ayah": 123,
-  "number_of_surah": 11,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/011.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Yusuf",
-  "name_translations": {
-    "ar": "يوسف",
-    "en": "Joseph",
-    "id": "Yusuf"
-  },
-  "number_of_ayah": 111,
-  "number_of_surah": 12,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/012.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Ar-Ra'd",
-  "name_translations": {
-    "ar": "الرعد",
-    "en": "The Thunder",
-    "id": "Guruh"
-  },
-  "number_of_ayah": 43,
-  "number_of_surah": 13,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/013.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Ibrahim",
-  "name_translations": {
-    "ar": "إبراهيم",
-    "en": "Abraham",
-    "id": "Ibrahim"
-  },
-  "number_of_ayah": 52,
-  "number_of_surah": 14,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/014.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Hijr",
-  "name_translations": {
-    "ar": "الحجر",
-    "en": "The Rock",
-    "id": "Hijr"
-  },
-  "number_of_ayah": 99,
-  "number_of_surah": 15,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/015.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "An-Nahl",
-  "name_translations": {
-    "ar": "النحل",
-    "en": "The Bee",
-    "id": "Lebah"
-  },
-  "number_of_ayah": 128,
-  "number_of_surah": 16,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/016.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Israa",
-  "name_translations": {
-    "ar": "الإسراء",
-    "en": "The Night Journey",
-    "id": "Memperjalankan Malam Hari"
-  },
-  "number_of_ayah": 111,
-  "number_of_surah": 17,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/017.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Kahf",
-  "name_translations": {
-    "ar": "الكهف",
-    "en": "The Cave",
-    "id": "Goa"
-  },
-  "number_of_ayah": 110,
-  "number_of_surah": 18,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/018.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Maryam",
-  "name_translations": {
-    "ar": "مريم",
-    "en": "Mary",
-    "id": "Maryam"
-  },
-  "number_of_ayah": 98,
-  "number_of_surah": 19,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/019.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Ta-Ha",
-  "name_translations": {
-    "ar": "طه",
-    "en": "Taa-Haa",
-    "id": "Taha"
-  },
-  "number_of_ayah": 135,
-  "number_of_surah": 20,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/020.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Anbiya",
-  "name_translations": {
-    "ar": "الأنبياء",
-    "en": "The Prophets",
-    "id": "Para Nabi"
-  },
-  "number_of_ayah": 112,
-  "number_of_surah": 21,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/021.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Hajj",
-  "name_translations": {
-    "ar": "الحج",
-    "en": "The Pilgrimage",
-    "id": "Haji"
-  },
-  "number_of_ayah": 78,
-  "number_of_surah": 22,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/022.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Muminun",
-  "name_translations": {
-    "ar": "المؤمنون",
-    "en": "The Believers",
-    "id": "Orang-Orang Mukmin"
-  },
-  "number_of_ayah": 118,
-  "number_of_surah": 23,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/023.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "An-Nur",
-  "name_translations": {
-    "ar": "النور",
-    "en": "The Light",
-    "id": "Cahaya"
-  },
-  "number_of_ayah": 64,
-  "number_of_surah": 24,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/024.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Furqan",
-  "name_translations": {
-    "ar": "الفرقان",
-    "en": "The Criterion",
-    "id": "Pembeda"
-  },
-  "number_of_ayah": 77,
-  "number_of_surah": 25,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/025.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Ash-Shuara",
-  "name_translations": {
-    "ar": "الشعراء",
-    "en": "The Poets",
-    "id": "Para Penyair"
-  },
-  "number_of_ayah": 227,
-  "number_of_surah": 26,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/026.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "An-Naml",
-  "name_translations": {
-    "ar": "النمل",
-    "en": "The Ant",
-    "id": "Semut-semut"
-  },
-  "number_of_ayah": 93,
-  "number_of_surah": 27,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/027.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Qasas",
-  "name_translations": {
-    "ar": "القصص",
-    "en": "The Stories",
-    "id": "Kisah-Kisah"
-  },
-  "number_of_ayah": 88,
-  "number_of_surah": 28,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/028.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Ankabut",
-  "name_translations": {
-    "ar": "العنكبوت",
-    "en": "The Spider",
-    "id": "Laba-Laba"
-  },
-  "number_of_ayah": 69,
-  "number_of_surah": 29,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/029.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Ar-Rum",
-  "name_translations": {
-    "ar": "الروم",
-    "en": "The Romans",
-    "id": "Romawi"
-  },
-  "number_of_ayah": 60,
-  "number_of_surah": 30,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/030.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Luqman",
-  "name_translations": {
-    "ar": "لقمان",
-    "en": "Luqman",
-    "id": "Luqman"
-  },
-  "number_of_ayah": 34,
-  "number_of_surah": 31,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/031.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "As-Sajdah",
-  "name_translations": {
-    "ar": "السجدة",
-    "en": "The Prostration",
-    "id": "Sajdah"
-  },
-  "number_of_ayah": 30,
-  "number_of_surah": 32,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/032.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Ahzab",
-  "name_translations": {
-    "ar": "الأحزاب",
-    "en": "The Clans",
-    "id": "Golongan Yang Bersekutu"
-  },
-  "number_of_ayah": 73,
-  "number_of_surah": 33,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/033.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Saba",
-  "name_translations": {
-    "ar": "سبأ",
-    "en": "Sheba",
-    "id": "Saba'"
-  },
-  "number_of_ayah": 54,
-  "number_of_surah": 34,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/034.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Fatir",
-  "name_translations": {
-    "ar": "فاطر",
-    "en": "The Originator",
-    "id": "Maha Pencipta"
-  },
-  "number_of_ayah": 45,
-  "number_of_surah": 35,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/035.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Yasin",
-  "name_translations": {
-    "ar": "يس",
-    "en": "Yaseen",
-    "id": "Yasin"
-  },
-  "number_of_ayah": 83,
-  "number_of_surah": 36,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/036.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "As-Saffat",
-  "name_translations": {
-    "ar": "الصافات",
-    "en": "Those drawn up in Ranks",
-    "id": "Barisan-Barisan"
-  },
-  "number_of_ayah": 182,
-  "number_of_surah": 37,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/037.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Sad",
-  "name_translations": {
-    "ar": "ص",
-    "en": "The letter Saad",
-    "id": "Sad"
-  },
-  "number_of_ayah": 88,
-  "number_of_surah": 38,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/038.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Az-Zumar",
-  "name_translations": {
-    "ar": "الزمر",
-    "en": "The Groups",
-    "id": "Rombongan"
-  },
-  "number_of_ayah": 75,
-  "number_of_surah": 39,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/039.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Ghafir",
-  "name_translations": {
-    "ar": "غافر",
-    "en": "The Forgiver",
-    "id": "Maha Pengampun"
-  },
-  "number_of_ayah": 85,
-  "number_of_surah": 40,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/040.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Fussilat",
-  "name_translations": {
-    "ar": "فصلت",
-    "en": "Explained in detail",
-    "id": "Yang Dijelaskan"
-  },
-  "number_of_ayah": 54,
-  "number_of_surah": 41,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/041.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Ash-Shura",
-  "name_translations": {
-    "ar": "الشورى",
-    "en": "Consultation",
-    "id": "Musyawarah"
-  },
-  "number_of_ayah": 53,
-  "number_of_surah": 42,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/042.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Az-Zukhruf",
-  "name_translations": {
-    "ar": "الزخرف",
-    "en": "Ornaments of gold",
-    "id": "Perhiasan"
-  },
-  "number_of_ayah": 89,
-  "number_of_surah": 43,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/043.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Ad-Dukhan",
-  "name_translations": {
-    "ar": "الدخان",
-    "en": "The Smoke",
-    "id": "Kabut"
-  },
-  "number_of_ayah": 59,
-  "number_of_surah": 44,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/044.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Jathiya",
-  "name_translations": {
-    "ar": "الجاثية",
-    "en": "Crouching",
-    "id": "Berlutut"
-  },
-  "number_of_ayah": 37,
-  "number_of_surah": 45,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/045.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Ahqaf",
-  "name_translations": {
-    "ar": "الأحقاف",
-    "en": "The Dunes",
-    "id": "Bukit Pasir"
-  },
-  "number_of_ayah": 35,
-  "number_of_surah": 46,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/046.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Muhammad",
-  "name_translations": {
-    "ar": "محمد",
-    "en": "Muhammad",
-    "id": "Muhammad"
-  },
-  "number_of_ayah": 38,
-  "number_of_surah": 47,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/047.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Fath",
-  "name_translations": {
-    "ar": "الفتح",
-    "en": "The Victory",
-    "id": "Kemenangan"
-  },
-  "number_of_ayah": 29,
-  "number_of_surah": 48,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/048.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Hujurat",
-  "name_translations": {
-    "ar": "الحجرات",
-    "en": "The Inner Apartments",
-    "id": "Kamar-Kamar"
-  },
-  "number_of_ayah": 18,
-  "number_of_surah": 49,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/049.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Qaf",
-  "name_translations": {
-    "ar": "ق",
-    "en": "The letter Qaaf",
-    "id": "Qaf"
-  },
-  "number_of_ayah": 45,
-  "number_of_surah": 50,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/050.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Az-Zariyat",
-  "name_translations": {
-    "ar": "الذاريات",
-    "en": "The Winnowing Winds",
-    "id": "Angin yang Menerbangkan"
-  },
-  "number_of_ayah": 60,
-  "number_of_surah": 51,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/051.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "At-Tur",
-  "name_translations": {
-    "ar": "الطور",
-    "en": "The Mount",
-    "id": "Bukit Tursina"
-  },
-  "number_of_ayah": 49,
-  "number_of_surah": 52,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/052.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "An-Najm",
-  "name_translations": {
-    "ar": "النجم",
-    "en": "The Star",
-    "id": "Bintang"
-  },
-  "number_of_ayah": 62,
-  "number_of_surah": 53,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/053.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Qamar",
-  "name_translations": {
-    "ar": "القمر",
-    "en": "The Moon",
-    "id": "Bulan"
-  },
-  "number_of_ayah": 55,
-  "number_of_surah": 54,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/054.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Ar-Rahman",
-  "name_translations": {
-    "ar": "الرحمن",
-    "en": "The Beneficent",
-    "id": "Maha Pengasih"
-  },
-  "number_of_ayah": 78,
-  "number_of_surah": 55,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/055.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Waqia",
-  "name_translations": {
-    "ar": "الواقعة",
-    "en": "The Inevitable",
-    "id": "Hari Kiamat"
-  },
-  "number_of_ayah": 96,
-  "number_of_surah": 56,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/056.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Hadid",
-  "name_translations": {
-    "ar": "الحديد",
-    "en": "The Iron",
-    "id": "Besi"
-  },
-  "number_of_ayah": 29,
-  "number_of_surah": 57,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/057.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Mujadilah",
-  "name_translations": {
-    "ar": "المجادلة",
-    "en": "The Pleading Woman",
-    "id": "Gugatan"
-  },
-  "number_of_ayah": 22,
-  "number_of_surah": 58,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/058.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Hashr",
-  "name_translations": {
-    "ar": "الحشر",
-    "en": "The Exile",
-    "id": "Pengusiran"
-  },
-  "number_of_ayah": 24,
-  "number_of_surah": 59,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/059.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Mumtahinah",
-  "name_translations": {
-    "ar": "الممتحنة",
-    "en": "She that is to be examined",
-    "id": "Wanita Yang Diuji"
-  },
-  "number_of_ayah": 13,
-  "number_of_surah": 60,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/060.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "As-Saff",
-  "name_translations": {
-    "ar": "الصف",
-    "en": "The Ranks",
-    "id": "Barisan"
-  },
-  "number_of_ayah": 14,
-  "number_of_surah": 61,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/061.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Jumu'ah",
-  "name_translations": {
-    "ar": "الجمعة",
-    "en": "Friday",
-    "id": "Jumat"
-  },
-  "number_of_ayah": 11,
-  "number_of_surah": 62,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/062.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Munafiqun",
-  "name_translations": {
-    "ar": "المنافقون",
-    "en": "The Hypocrites",
-    "id": "Orang-Orang Munafik"
-  },
-  "number_of_ayah": 11,
-  "number_of_surah": 63,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/063.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "At-Taghabun",
-  "name_translations": {
-    "ar": "التغابن",
-    "en": "Mutual Disillusion",
-    "id": "Pengungkapan Kesalahan"
-  },
-  "number_of_ayah": 18,
-  "number_of_surah": 64,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/064.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "At-Talaq",
-  "name_translations": {
-    "ar": "الطلاق",
-    "en": "Divorce",
-    "id": "Talak"
-  },
-  "number_of_ayah": 12,
-  "number_of_surah": 65,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/065.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "At-Tahrim",
-  "name_translations": {
-    "ar": "التحريم",
-    "en": "The Prohibition",
-    "id": "Pengharaman"
-  },
-  "number_of_ayah": 12,
-  "number_of_surah": 66,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/066.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Mulk",
-  "name_translations": {
-    "ar": "الملك",
-    "en": "The Sovereignty",
-    "id": "Kerajaan"
-  },
-  "number_of_ayah": 30,
-  "number_of_surah": 67,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/067.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Qalam",
-  "name_translations": {
-    "ar": "القلم",
-    "en": "The Pen",
-    "id": "Pena"
-  },
-  "number_of_ayah": 52,
-  "number_of_surah": 68,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/068.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Haqqah",
-  "name_translations": {
-    "ar": "الحاقة",
-    "en": "The Reality",
-    "id": "Hari Kiamat"
-  },
-  "number_of_ayah": 52,
-  "number_of_surah": 69,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/069.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Ma'arij",
-  "name_translations": {
-    "ar": "المعارج",
-    "en": "The Ascending Stairways",
-    "id": "Tempat Naik"
-  },
-  "number_of_ayah": 44,
-  "number_of_surah": 70,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/070.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Nuh",
-  "name_translations": {
-    "ar": "نوح",
-    "en": "Noah",
-    "id": "Nuh"
-  },
-  "number_of_ayah": 28,
-  "number_of_surah": 71,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/071.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Jinn",
-  "name_translations": {
-    "ar": "الجن",
-    "en": "The Jinn",
-    "id": "Jin"
-  },
-  "number_of_ayah": 28,
-  "number_of_surah": 72,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/072.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Muzzammil",
-  "name_translations": {
-    "ar": "المزمل",
-    "en": "The Enshrouded One",
-    "id": "Orang Yang Berselimut"
-  },
-  "number_of_ayah": 20,
-  "number_of_surah": 73,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/073.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Muddaththir",
-  "name_translations": {
-    "ar": "المدثر",
-    "en": "The Cloaked One",
-    "id": "Orang Yang Berkemul"
-  },
-  "number_of_ayah": 56,
-  "number_of_surah": 74,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/074.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Qiyamah",
-  "name_translations": {
-    "ar": "القيامة",
-    "en": "The Resurrection",
-    "id": "Hari Kiamat"
-  },
-  "number_of_ayah": 40,
-  "number_of_surah": 75,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/075.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Insan",
-  "name_translations": {
-    "ar": "الإنسان",
-    "en": "Man",
-    "id": "Manusia"
-  },
-  "number_of_ayah": 31,
-  "number_of_surah": 76,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/076.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Mursalat",
-  "name_translations": {
-    "ar": "المرسلات",
-    "en": "The Emissaries",
-    "id": "Malaikat Yang Diutus"
-  },
-  "number_of_ayah": 50,
-  "number_of_surah": 77,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/077.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "An-Naba",
-  "name_translations": {
-    "ar": "النبأ",
-    "en": "The Announcement",
-    "id": "Berita Besar"
-  },
-  "number_of_ayah": 40,
-  "number_of_surah": 78,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/078.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "An-Naziat",
-  "name_translations": {
-    "ar": "النازعات",
-    "en": "Those who drag forth",
-    "id": "Malaikat Yang Mencabut"
-  },
-  "number_of_ayah": 46,
-  "number_of_surah": 79,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/079.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Abasa",
-  "name_translations": {
-    "ar": "عبس",
-    "en": "He frowned",
-    "id": "Bermuka Masam"
-  },
-  "number_of_ayah": 42,
-  "number_of_surah": 80,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/080.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "At-Takwir",
-  "name_translations": {
-    "ar": "التكوير",
-    "en": "The Overthrowing",
-    "id": "Penggulungan"
-  },
-  "number_of_ayah": 29,
-  "number_of_surah": 81,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/081.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Infitar",
-  "name_translations": {
-    "ar": "الإنفطار",
-    "en": "The Cleaving",
-    "id": "Terbelah"
-  },
-  "number_of_ayah": 19,
-  "number_of_surah": 82,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/082.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Mutaffifin",
-  "name_translations": {
-    "ar": "المطففين",
-    "en": "Defrauding",
-    "id": "Orang-Orang Curang"
-  },
-  "number_of_ayah": 36,
-  "number_of_surah": 83,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/083.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Inshiqaq",
-  "name_translations": {
-    "ar": "الإنشقاق",
-    "en": "The Splitting Open",
-    "id": "Terbelah"
-  },
-  "number_of_ayah": 25,
-  "number_of_surah": 84,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/084.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Buruj",
-  "name_translations": {
-    "ar": "البروج",
-    "en": "The Constellations",
-    "id": "Gugusan Bintang"
-  },
-  "number_of_ayah": 22,
-  "number_of_surah": 85,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/085.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "At-Tariq",
-  "name_translations": {
-    "ar": "الطارق",
-    "en": "The Morning Star",
-    "id": "Yang Datang Di Malam Hari"
-  },
-  "number_of_ayah": 17,
-  "number_of_surah": 86,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/086.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Ala",
-  "name_translations": {
-    "ar": "الأعلى",
-    "en": "The Most High",
-    "id": "Maha Tinggi"
-  },
-  "number_of_ayah": 19,
-  "number_of_surah": 87,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/087.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Ghashiyah",
-  "name_translations": {
-    "ar": "الغاشية",
-    "en": "The Overwhelming",
-    "id": "Hari Kiamat"
-  },
-  "number_of_ayah": 26,
-  "number_of_surah": 88,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/088.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Fajr",
-  "name_translations": {
-    "ar": "الفجر",
-    "en": "The Dawn",
-    "id": "Fajar"
-  },
-  "number_of_ayah": 30,
-  "number_of_surah": 89,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/089.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Balad",
-  "name_translations": {
-    "ar": "البلد",
-    "en": "The City",
-    "id": "Negeri"
-  },
-  "number_of_ayah": 20,
-  "number_of_surah": 90,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/090.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Ash-Shams",
-  "name_translations": {
-    "ar": "الشمس",
-    "en": "The Sun",
-    "id": "Matahari"
-  },
-  "number_of_ayah": 15,
-  "number_of_surah": 91,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/091.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Lail",
-  "name_translations": {
-    "ar": "الليل",
-    "en": "The Night",
-    "id": "Malam"
-  },
-  "number_of_ayah": 21,
-  "number_of_surah": 92,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/092.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Ad-Duha",
-  "name_translations": {
-    "ar": "الضحى",
-    "en": "The Morning Hours",
-    "id": "Duha"
-  },
-  "number_of_ayah": 11,
-  "number_of_surah": 93,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/093.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Ash-Sharh",
-  "name_translations": {
-    "ar": "الشرح",
-    "en": "The Consolation",
-    "id": "Lapang"
-  },
-  "number_of_ayah": 8,
-  "number_of_surah": 94,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/094.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "At-Tin",
-  "name_translations": {
-    "ar": "التين",
-    "en": "The Fig",
-    "id": "Buah Tin"
-  },
-  "number_of_ayah": 8,
-  "number_of_surah": 95,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/095.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Alaq",
-  "name_translations": {
-    "ar": "العلق",
-    "en": "The Clot",
-    "id": "Segumpal Darah"
-  },
-  "number_of_ayah": 19,
-  "number_of_surah": 96,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/096.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Qadr",
-  "name_translations": {
-    "ar": "القدر",
-    "en": "The Power, Fate",
-    "id": "Kemuliaan"
-  },
-  "number_of_ayah": 5,
-  "number_of_surah": 97,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/097.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Bayinah",
-  "name_translations": {
-    "ar": "البينة",
-    "en": "The Evidence",
-    "id": "Bukti Nyata"
-  },
-  "number_of_ayah": 8,
-  "number_of_surah": 98,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/098.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Az-Zalzalah",
-  "name_translations": {
-    "ar": "الزلزلة",
-    "en": "The Earthquake",
-    "id": "Guncangan"
-  },
-  "number_of_ayah": 8,
-  "number_of_surah": 99,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/099.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Adiyat",
-  "name_translations": {
-    "ar": "العاديات",
-    "en": "The Chargers",
-    "id": "Kuda Yang Berlari Kencang"
-  },
-  "number_of_ayah": 11,
-  "number_of_surah": 100,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/100.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Qariah",
-  "name_translations": {
-    "ar": "القارعة",
-    "en": "The Calamity",
-    "id": "Hari Kiamat"
-  },
-  "number_of_ayah": 11,
-  "number_of_surah": 101,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/101.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Takathur",
-  "name_translations": {
-    "ar": "التكاثر",
-    "en": "Competition",
-    "id": "Bermegah-Megahan"
-  },
-  "number_of_ayah": 8,
-  "number_of_surah": 102,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/102.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Asr",
-  "name_translations": {
-    "ar": "العصر",
-    "en": "The Declining Day, Epoch",
-    "id": "Asar"
-  },
-  "number_of_ayah": 3,
-  "number_of_surah": 103,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/103.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Humazah",
-  "name_translations": {
-    "ar": "الهمزة",
-    "en": "The Traducer",
-    "id": "Pengumpat"
-  },
-  "number_of_ayah": 9,
-  "number_of_surah": 104,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/104.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Fil",
-  "name_translations": {
-    "ar": "الفيل",
-    "en": "The Elephant",
-    "id": "Gajah"
-  },
-  "number_of_ayah": 5,
-  "number_of_surah": 105,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/105.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Quraish",
-  "name_translations": {
-    "ar": "قريش",
-    "en": "Quraysh",
-    "id": "Quraisy"
-  },
-  "number_of_ayah": 4,
-  "number_of_surah": 106,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/106.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Ma'un",
-  "name_translations": {
-    "ar": "الماعون",
-    "en": "Almsgiving",
-    "id": "Barang Yang Berguna"
-  },
-  "number_of_ayah": 7,
-  "number_of_surah": 107,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/107.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Kauthar",
-  "name_translations": {
-    "ar": "الكوثر",
-    "en": "Abundance",
-    "id": "Pemberian Yang Banyak"
-  },
-  "number_of_ayah": 3,
-  "number_of_surah": 108,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/108.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Kafirun",
-  "name_translations": {
-    "ar": "الكافرون",
-    "en": "The Disbelievers",
-    "id": "Orang-Orang kafir"
-  },
-  "number_of_ayah": 6,
-  "number_of_surah": 109,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/109.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "An-Nasr",
-  "name_translations": {
-    "ar": "النصر",
-    "en": "Divine Support",
-    "id": "Pertolongan"
-  },
-  "number_of_ayah": 3,
-  "number_of_surah": 110,
-  "place": "Medina",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/110.mp3",
-  "type": "Madaniyah"
-}, {
-  "name": "Al-Masad",
-  "name_translations": {
-    "ar": "المسد",
-    "en": "The Palm Fibre",
-    "id": "Api Yang Bergejolak"
-  },
-  "number_of_ayah": 5,
-  "number_of_surah": 111,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/111.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Ikhlas",
-  "name_translations": {
-    "ar": "الإخلاص",
-    "en": "Sincerity",
-    "id": "Ikhlas"
-  },
-  "number_of_ayah": 4,
-  "number_of_surah": 112,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/112.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "Al-Falaq",
-  "name_translations": {
-    "ar": "الفلق",
-    "en": "The Dawn",
-    "id": "Subuh"
-  },
-  "number_of_ayah": 5,
-  "number_of_surah": 113,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/113.mp3",
-  "type": "Makkiyah"
-}, {
-  "name": "An-Nas",
-  "name_translations": {
-    "ar": "الناس",
-    "en": "Mankind",
-    "id": "Manusia"
-  },
-  "number_of_ayah": 6,
-  "number_of_surah": 114,
-  "place": "Mecca",
-  "recitation": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/114.mp3",
-  "type": "Makkiyah"
-}]
+		"nomorsurat": 1,
+		"jumlahayat": 7,
+		"namasurat_ar": "الفاتحة",
+		"namasurat_id": "Al-Fatihah",
+		"artisurat_en": "The Opening",
+		"artisurat_id": "Pembukaan",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Faatihah (Pembukaan) yang diturunkan di Mekah dan terdiri dari 7 ayat adalah surat yang pertama-tama diturunkan dengan lengkap  diantara surat-surat yang ada dalam Al Quran dan termasuk golongan surat Makkiyyah. Surat ini disebut Al Faatihah (Pembukaan), karena dengan surat inilah dibuka dan dimulainya Al Quran. Dinamakan Ummul Quran (induk Al Quran) atau Ummul Kitaab (induk Al Kitaab) karena dia merupakan induk dari semua isi Al Quran, dan karena itu diwajibkan membacanya pada tiap-tiap sembahyang. Dinamakan pula As Sab'ul matsaany (tujuh yang berulang-ulang) karena ayatnya tujuh dan dibaca berulang-ulang dalam sholat.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F1.json?alt=media&token=087f24e8-0e07-4a74-9949-da0df8d73288",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/001.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/001.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/001AlFaatihah.mp3"
+	},
+
+	{
+		"nomorsurat": 2,
+		"jumlahayat": 286,
+		"namasurat_ar": "البقرة",
+		"namasurat_id": "Al-Baqarah",
+		"artisurat_en": "The Cow",
+		"artisurat_id": "Sapi",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Baqarah yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa' (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai Al Baqarah karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai Fusthaatul-Quran (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  alif-laam-miim karena surat ini dimulai dengan Alif-laam-miim.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F2.json?alt=media&token=931efda2-13c4-4f33-90e6-7a0da32a2eb2",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/002.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/002.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/002AlBaqarah.mp3"
+	},
+
+	{
+		"nomorsurat": 3,
+		"jumlahayat": 200,
+		"namasurat_ar": "آل عمران",
+		"namasurat_id": "Ali 'Imran",
+		"artisurat_en": "The Family of Imraan",
+		"artisurat_id": "Keluarga Imran",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Ali 'Imran yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan Ali 'Imran karena memuat kisah keluarga 'Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri 'Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali 'Imran ini dinamakan Az Zahrawaani (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F3.json?alt=media&token=c45cd439-28fa-419c-9c05-81825d9a5615",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/003.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/003.mp",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/003AliImran.mp3"
+	},
+
+	{
+		"nomorsurat": 4,
+		"jumlahayat": 176,
+		"namasurat_ar": "النساء",
+		"namasurat_id": "An-Nisa'",
+		"artisurat_en": "The Women",
+		"artisurat_id": "Wanita",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat An Nisaa' yang terdiri dari 176 ayat itu, adalah surat Madaniyyah yang terpanjang sesudah surat Al Baqarah. Dinamakan An Nisaa' karena dalam surat ini banyak dibicarakan hal-hal yang berhubungan dengan wanita serta merupakan surat yang paling membicarakan hal itu dibanding dengan surat-surat yang lain. Surat yang lain banyak juga yang membicarakan tentang hal wanita ialah surat Ath Thalaq. Dalam hubungan ini biasa disebut surat An Nisaa' dengan sebutan: Surat An Nisaa' Al Kubraa (surat An Nisaa' yang besar), sedang  surat Ath Thalaq disebut dengan sebutan: Surat An Nisaa' Ash Shughraa (surat An Nisaa' yang kecil).",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F4.json?alt=media&token=d8b9470e-6ed6-48bd-9cb0-a3e715ea8d29",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/004.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/004.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/004AnNisaa.mp3"
+	},
+
+	{
+		"nomorsurat": 5,
+		"jumlahayat": 120,
+		"namasurat_ar": "المائدة",
+		"namasurat_id": "Al-Ma'idah",
+		"artisurat_en": "The Table",
+		"artisurat_id": "Hidangan",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Maa'idah terdiri dari 120 ayat; termasuk golongan surat Madaniyyah. Sekalipun ada ayatnya yang turun di Mekah, namun ayat ini diturunkan sesudah Nabi Muhammad s.a.w. hijrah ke Medinah, yaitu di waktu haji wadaa'. Surat ini dinamakan Al Maa'idah (hidangan) karena memuat kisah pengikut-pengikut setia Nabi Isa a.s. meminta kepada Nabi Isa a.s. agar Allah menurunkan untuk mereka Al Maa'idah (hidangan makanan) dari langit (ayat 112). Dan dinamakan Al Uqud (perjanjian), karena kata itu terdapat pada ayat pertama surat ini, dimana Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya. Dinamakan juga Al Munqidz (yang menyelamatkan), karena akhir surat ini mengandung kisah tentang Nabi Isa a.s. penyelamat pengikut-pengikut setianya dari azab Allah.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F5.json?alt=media&token=f926a662-36e3-47de-8024-dd0fcc0af6f6",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/005.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/005.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/005AlMaaidah.mp3"
+	},
+
+	{
+		"nomorsurat": 6,
+		"jumlahayat": 165,
+		"namasurat_ar": "الأنعام",
+		"namasurat_id": "Al-An'am",
+		"artisurat_en": "The Cattle",
+		"artisurat_id": "Binatang Ternak",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al An'aam (binatang ternak: unta, sapi, biri-biri dan kambing) yang terdiri atas 165 ayat, termasuk golongan surat Makkiyah, karena hampur seluruh ayat-ayat-Nya diturunkan di Mekah dekat sebelum hijrah. Dinamakan Al An'aam karena di dalamnya disebut kata An'aam dalam hubungan dengan adat-istiadat kaum musyrikin, yang menurut mereka binatang-binatang ternak itu dapat dipergunakan untuk mendekatkan diri kepada tuhan mereka. Juga dalam surat ini disebutkan hukum-hukum yang berkenaan dengan binatang ternak itu.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F6.json?alt=media&token=ca2610d7-2f1c-4537-969f-2aa075102ae4",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/006.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/006.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/006AlAnaam.mp3"
+	},
+
+	{
+		"nomorsurat": 7,
+		"jumlahayat": 206,
+		"namasurat_ar": "الأعراف",
+		"namasurat_id": "Al-A'raf",
+		"artisurat_en": "The Heights",
+		"artisurat_id": "Tempat Tertinggi",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al A'raaf yang berjumlah 206 ayat termasuk golongan surat Makkiyah, diturunkan sebelum turunnya surat Al An'aam dan termasuk golongan surat Assab 'uththiwaal (tujuh surat yang panjang). Dinamakan Al A'raaf karena perkataan Al A'raaf terdapat dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di atas Al A'raaf yaitu: tempat yang tertinggi di batas surga dan neraka.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F7.json?alt=media&token=f7e815a8-7ed8-4ddb-9517-4da93e4e30d9",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/007.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/007.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/007AlAaraaf.mp3"
+	},
+
+	{
+		"nomorsurat": 8,
+		"jumlahayat": 75,
+		"namasurat_ar": "الأنفال",
+		"namasurat_id": "Al-Anfal",
+		"artisurat_en": "The Spoils of War",
+		"artisurat_id": "Rampasan Perang",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Anfaal terdiri atas 75 ayat dan termasuk golongan surat-surat Madaniyyah, karena seluruh ayat-ayatnya diturunkan di Madinah. Surat ini dinamakan Al Anfaal yang berarti harta rampasan perang berhubung kata Al Anfaal terdapat pada permulaan surat ini dan juga persoalan yang menonjol dalam surat ini ialah tentang harta rampasan perang, hukum perang dan hal-hal yang berhubungan dengan peperangan pada umumnya. Menurut riwayat Ibnu Abbas r.a. surat ini diturunkan berkenaan dengan perang Badar Kubra yang terjadi pada tahun kedua hijrah. Peperangan ini sangat penting artinya, karena dialah yang menentukan jalan sejarah Perkembangan Islam. Pada waktu itu umat Islam dengan berkekuatan kecil untuk pertama kali dapat mengalahkan kaum musyrikin yang berjumlah besar, dan berperlengkapan yang cukup, dan mereka dalam peperangan ini memperoleh harta rampasan perang yang tidak sedikit. Oleh sebab itu timbullah masalah bagaimana membagi harta-harta rampasan perang itu, maka kemudian Allah menurunkan ayat pertama dari surat ini.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F8.json?alt=media&token=d6170281-d07c-4a08-92f8-f7a5d5a971f1",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/008.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/008.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/008AlAnfaal.mp3"
+	},
+
+	{
+		"nomorsurat": 9,
+		"jumlahayat": 129,
+		"namasurat_ar": "التوبة",
+		"namasurat_id": "At-Taubah",
+		"artisurat_en": "The Repentance",
+		"artisurat_id": "Pengampunan",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat At Taubah terdiri atas 129 ayat termasuk golongan surat-surat Madaniyyah. Surat ini dinamakan At Taubah yang berarti pengampunan berhubung kata At Taubah berulang kali disebut dalam surat ini. Dinamakan juga dengan Baraah yang berarti berlepas diri yang di sini maksudnya pernyataan pemutusan perhubungan, disebabkan kebanyakan pokok pembicaraannya tentang pernyataan pemutusan perjanjian damai dengan kaum musyrikin.  Di samping kedua nama yang masyhur itu ada lagi beberapa nama yang lain yang merupakan sifat dari surat ini.  Berlainan dengan surat-surat yang lain, maka pada permulaan surat ini tidak terdapat basmalah, karena surat ini adalah pernyataan perang dengan arti bahwa segenap kaum muslimin dikerahkan untuk memerangi seluruh kaum musyrikin, sedangkan basmalah bernafaskan perdamaian dan cinta kasih Allah.  Surat ini diturunkan sesudah Nabi Muhammad s.a.w. kembali dari peperangan Tabuk yang terjadi pada tahun 9 H. Pengumuman ini disampaikan oleh Saidina 'Ali r.a. pada musim haji tahun itu juga.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F9.json?alt=media&token=e9d45add-e1a5-415b-959d-bc5af8a9260f",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/009.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/009.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/009AtTaubah.mp3"
+	},
+
+	{
+		"nomorsurat": 10,
+		"jumlahayat": 109,
+		"namasurat_ar": "يونس",
+		"namasurat_id": "Yunus",
+		"artisurat_en": "Jonas",
+		"artisurat_id": "Yunus",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Yunus terdiri atas 109 ayat, termasuk golongan surat-surat Makkiyyah kecuali ayat 40, 94, 95, yang diturunkan pada masa Nabi Muhmmad s.a.w. berada di Madinah. Surat ini dinamai surat Yunus karena dalam surat ini terutama ditampilkan kisah Nabi Yunus a.s. dan pengikut-pengikutnya yang teguh imannya.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F10.json?alt=media&token=15116cd7-0931-4254-98ee-5e535c806a72",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/010.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/010Yunus.mp3"
+	},
+
+	{
+		"nomorsurat": 11,
+		"jumlahayat": 123,
+		"namasurat_ar": "هود",
+		"namasurat_id": "Hud",
+		"artisurat_en": "Hud",
+		"artisurat_id": "Hud",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Huud termasuk golongan surat-surat Makkiyyah, terdiri dari 123 ayat diturunkan sesudah surat Yunus. Surat ini dinamai surat Huud karena ada hubungan dengan terdapatnya kisah Nabi Huud a.s. dan kaumnya dalam surat ini terdapat juga kisah-kisah Nabi yang lain, seperti kisah Nuh a.s., Shaleh a.s., Ibrahim a.s., Luth a.s., Syu'aib a.s. dan Musa a.s.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F11.json?alt=media&token=9b76a78f-14a5-4acf-8cbf-5535f3f248c6",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/011.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/011.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/011Huud.mp3"
+	},
+
+	{
+		"nomorsurat": 12,
+		"jumlahayat": 111,
+		"namasurat_ar": "يوسف",
+		"namasurat_id": "Yusuf",
+		"artisurat_en": "Joseph",
+		"artisurat_id": "Yusuf",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Yusuf ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum hijrah. Surat ini dinamakan surat Yusuf adalah karena titik berat dari isinya mengenai riwayat Nabi Yusuf a.s.  Riwayat tersebut salah satu di antara cerita-cerita ghaib yang diwahyukan kepada Nabi Muhammad s.a.w. sebagai mukjizat bagi beliau, sedang beliau sebelum diturunkan surat ini tidak mengetahuinya.  Menurut riwayat Al Baihaqi dalam kitab Ad Dalail bahwa segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf a.s. ini, karena sesuai dengan cerita-cerita yang mereka ketahui. Dari cerita Yusuf a.s. ini, Nabi Muhammad s.a.w. mengambil pelajaran-pelajaran yang banyak dan merupakan penghibur terhadap beliau dalam menjalankan tugasnya.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F12.json?alt=media&token=759d460f-83d8-422d-9876-94f7d4138329",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/012.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/012.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/012Yusuf.mp3"
+	},
+
+	{
+		"nomorsurat": 13,
+		"jumlahayat": 43,
+		"namasurat_ar": "الرعد",
+		"namasurat_id": "Ar-Ra'd",
+		"artisurat_en": "The Thunder",
+		"artisurat_id": "Guruh",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Ar Ra'd ini terdiri atas 43 ayat termasuk golongan surat-surat Makkiyyah. Surat ini dinamakan Ar Ra'd yang berarti guruh karena dalam ayat 13 Allah berfirman yang artinya Dan guruh itu bertasbih sambil memuji-Nya, menunjukkan sifat kesucian dan kesempurnaan Allah s.w.t.  Dan lagi sesuai dengan sifat Al Quran yang mengandung ancaman dan harapan, maka demikian pulalah halnya bunyi guruh itu menimbulkan kecemasan dan harapan kepada manusia. Isi yang terpenting dari surat ini ialah bahwa bimbingan Allah kepada makhluk-Nya bertalian erat dengan hukum sebab dan akibat. Bagi Allah s.w.t. tidak ada pilih kasih dalam menetapkan hukuman. Balasan atau hukuman adalah akibat dan ketaatan atau keingkaran terhadap hukum Allah.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F13.json?alt=media&token=0a0f6f46-7d68-49e1-9048-57306f06e26d",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/013.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/013.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/013ArRaad.mp3"
+	},
+
+	{
+		"nomorsurat": 14,
+		"jumlahayat": 52,
+		"namasurat_ar": "إبراهيم",
+		"namasurat_id": "Ibrahim",
+		"artisurat_en": "Abraham",
+		"artisurat_id": "Ibrahim",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Ibrahim ini terdiri atas 52 ayat, termasuk golongan surat-surat Makkiyyah karena diturunkan di Mekah sebelum Hijrah. Dinamakan Ibrahim, karena surat ini mengandung doa Nabi Ibrahim a.s. yaitu ayat 35 sampai dengan 41. Do'a ini isinya antara lain: permohonan agar keturunannya mendirikan shalat, dijauhkan dari menyembah berhala-berhala dan agar Mekah dan daerah sekitarnya menjadi daerah yang aman dan makmur. Doa Nabi Ibrahim a.s. ini telah diperkenankan oleh Allah s.w.t. sebagaimana telah terbukti keamanannya sejak dahulu sampai sekarang. Do'a tersebut dipanjatkan beliau ke hadirat Allah s.w.t. sesudah selesai membina Ka'bah bersama puteranya Ismail a.s., di dataran tanah Mekah yang tandus.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F14.json?alt=media&token=9c5e991c-be46-42bd-a641-ec23dced7a6f",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/014.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/014.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/014Ibrahim.mp3"
+	},
+
+	{
+		"nomorsurat": 15,
+		"jumlahayat": 99,
+		"namasurat_ar": "الحجر",
+		"namasurat_id": "Al-Hijr",
+		"artisurat_en": "The Rock",
+		"artisurat_id": "Hijr",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 99 ayat, termasuk golongan surat-surat Makkiyyah,  karena diturunkan di Mekah sebelum hijrah. Al Hijr  adalah nama  sebuah daerah  pegunungan yang didiami zaman dahulu  oleh kaum  Tsamud terletak  di  pinggir  jalan antara Madinah dan Syam (Syria). Nama surat ini diambil dari nama daerah pegunungan itu, berhubung nasib  penduduknya yaitu  kaum Tsamud  diceritakan pada ayat  80 sampai  dengan 84,  mereka  telah  dimusnahkan Allah  s.w.t.,  karena  mendustakan  Nabi  Shaleh  a.s.  dan berpaling   dari ayat-ayat  Allah. Dalam  surat ini terdapat juga kisah-kisah  kaum yang lain yang telah dibinasakan oleh Allah seperti  kaum Luth  a.s. dan kaum Syu'aib a.s. Dari ke semua kisah-kisah  itu dapat  diambil pelajaran bahwa orang-orang  yang  menentang  ajaran  rasul-rasul  akan  mengalami kehancuran.",
+		"linkisi":"https://firebasestorage.googleapis.com/v0/b/pemuda-hijrah-tsigroup.appspot.com/o/quran_id_en%2F15.json?alt=media&token=fc2636a7-69c8-4e17-b601-20f94ee27c69",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/015.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/015.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/015AlHijr.mp3"
+	},
+
+	{
+		"nomorsurat": 16,
+		"jumlahayat": 128,
+		"namasurat_ar": "النحل",
+		"namasurat_id": "An-Nahl",
+		"artisurat_en": "The Bee",
+		"artisurat_id": "Lebah",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 128 ayat, termasuk golongan surat-surat Makkiyyah. Surat ini dinamakan An Nahl yang berarti lebah karena di dalamnya, terdapat firman Allah s.w.t. ayat 68 yang artinya : \"Dan Tuhanmu mewahyukan kepada lebah.\" Lebah adalah makhluk Allah yang banyak memberi manfaat  dan kenikmatan kepada manusia. Ada persamaan antara madu yang dihasilkan oleh lebah dengan Al Quranul Karim. Madu berasal dari bermacam-macam sari bunga dan dia menjadi obat bagi bermacam-macam penyakit manusia (lihat ayat 69). Sedang Al Quran mengandung inti sari dari kitab-kitab yang telah diturunkan kepada Nabi-nabi zaman dahulu ditambah dengan ajaran-ajaran yang diperlukan oleh semua bangsa sepanjang masa untuk mencapai kebahagiaan dunia dan akhirat. (Lihat surat (10) Yunus ayat 57 dan surat (17) Al Isra' ayat  82). Surat ini dinamakan pula \"An Ni'am\" artinya nikmat-nikmat, karena di dalamnya Allah menyebutkan pelbagai macam nikmat untuk hamba-hamba-Nya.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/016.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/016.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/016AnNahl.mp3"
+	},
+
+	{
+		"nomorsurat": 17,
+		"jumlahayat": 111,
+		"namasurat_ar": "الإسراء",
+		"namasurat_id": "Al-Isra'",
+		"artisurat_en": "The Night Journey",
+		"artisurat_id": "Memperjalankan Malam Hari",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 111 ayat, termasuk golongan surat-surat Makkiyyah. Dinamakan dengan Al Israa' yang berarti memperjalankan di malam hari, berhubung peristiwa Israa' Nabi Muhammad s.a.w. di Masjidil Haram di Mekah ke Masjidil Aqsha di Baitul Maqdis dicantumkan pada ayat pertama dalam surat ini. Penuturan cerita Israa' pada permulaan surat ini, mengandung isyarat bahwa Nabi Muhammad s.a.w. beserta umatnya kemudian hari akan mencapai martabat yang tinggi dan akan menjadi umat yang besar. Surat ini dinamakan pula dengan Bani Israil artinya keturunan Israil berhubung dengan permulaan surat ini, yakni pada ayat kedua sampai dengan ayat kedelapan dan kemudian dekat akhir surat yakni pada ayat 101 sampai dengan ayat 104, Allah menyebutkan tentang Bani Israil yang setelah menjadi bangsa yang kuat lagi besar lalu menjadi bangsa yang terhina karena menyimpang dari ajaran Allah s.w.t. Dihubungkannya kisah Israa' dengan riwayat Bani Israil pada surat ini, memberikan peringatan bahwa umat Islam akan mengalami keruntuhan, sebagaimana halnya Bani Israil, apabila mereka juga meninggalkan ajaran-ajaran agamanya.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/017.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/017.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/017AlIsraa.mp3"
+	},
+
+	{
+		"nomorsurat": 18,
+		"jumlahayat": 110,
+		"namasurat_ar": "الكهف",
+		"namasurat_id": "Al-Kahf",
+		"artisurat_en": "The Cave",
+		"artisurat_id": "Goa",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat  ini terdiri atas 110 ayat, termasuk  golongan  surat-surat Makkiyyah. Dinamai Al-Kahfi artinya Gua dan Ashhabul Kahfi yang artinya Penghuni-Penghuni Gua. Kedua nama ini diambil dari cerita yang terdapat dalam surat ini pada ayat 9 sampai dengan 26, tentang beberapa orang pemuda yang tidur dalam gua bertahun-tahun lamanya. Selain cerita tersebut, terdapat pula beberapa buah cerita dalam surat ini, yang kesemuanya mengandung i'tibar dan pelajaran-pelajaran yang amat berguna bagi kehidupan manusia. Banyak hadist-hadist Rasulullah s.a.w. yang menyatakan keutamaan membaca surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/018.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/018.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/018AlKahfi.mp3"
+	},
+
+	{
+		"nomorsurat": 19,
+		"jumlahayat": 98,
+		"namasurat_ar": "مريم",
+		"namasurat_id": "Maryam",
+		"artisurat_en": "Mary",
+		"artisurat_id": "Maryam",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Maryam terdiri atas 98 ayat, termasuk golongan surat-surat Makkiyyah, karena hampir seluruh ayatnya diturunkan sebelum Nabi Muhammad s.a.w. hijrah ke Madinah, bahkan sebelum sahabat-sahabat beliau hijrah ke negeri Habsyi. Menurut riwayat Ibnu Mas'ud, Ja'far bin Abi Thalib membacakan permulaan surat Maryam ini kepada raja Najasyi dan pengikut-pengikutnya di waktu ia ikut hijrah bersama-sama sahabat-sahabat yang lain ke negeri Habsyi.Surat ini dinamai Maryam, karena surat ini mengandung kisah Maryam, ibu Nabi Isa a.s. yang serba ajaib, yaitu melahirkan puteranya lsa a.s., sedang ia sebelumnya belum pernah dikawini atau dicampuri oleh seorang laki-laki pun. Kelahiran Isa a.s. tanpa bapa, merupakan suatu bukti kekuasaan Allah s.w.t.  Pengutaraan kisah Maryam sebagai kejadian yang luar biasa dan ajaib dalam surat ini, diawali dengan kisah kejadian yang luar biasa dan ajaib pula, yaitu dikabulkannya doa Zakaria a.s. oleh Allah s.w.t., agar beliau dianugerahi seorang putera sebagai pewaris dan pelanjut cita-cita dan kepercayaan beliau, sedang usia beliau sudah sangat tua dan isteri beliau seorang yang mandul yang menurut ukuran ilmu biologi tidak mungkin akan terjadi.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/019.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/019.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/019Maryam.mp3"
+	},
+
+	{
+		"nomorsurat": 20,
+		"jumlahayat": 135,
+		"namasurat_ar": "طه",
+		"namasurat_id": "Taha",
+		"artisurat_en": "Taa-Haa",
+		"artisurat_id": "Taha",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Thaahaa terdiri atas 135 ayat, diturunkan sesudah diturunkannya surat Maryam, termasuk golongan surat-surat Makkiyyah. Surat ini dinamai Thaahaa, diambil dari perkataan yang berasal dan ayat pertama surat ini. Sebagaimana yang lazim terdapat pada surat-surat yang memakai huruf-huruf abjad pada permulaannya, di mana huruf tersebut seakan-akan merupakan pemberitahuan Allah kepada orang-orang yang membacanya, bahwa sesudah huruf itu akan dikemukakan hal-hal yang  sangat penting diketahui, maka demikian pula halnya dengan ayat-ayat yang terdapat sesudah huruf thaahaa dalam surat ini. Allah menerangkan bahwa Al Quran merupakan peringatan bagi manusia, wahyu dari Allah, Pencipta semesta alam. Kemudian Allah menerangkan kisah beberapa orang nabi; akibat-akibat yang telah ada akan dialami oleh orang-orang yang percaya kepada Allah dan orang-orang yang mengingkari-Nya, baik di dunia maupun di akhirat. Selain hal-hal tersebut di atas, maka surat ini mengandung pokok-pokok isi sebagai berikut:",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/020.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/020.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/020Thaahaa2.mp3"
+	},
+
+	{
+		"nomorsurat": 21,
+		"jumlahayat": 112,
+		"namasurat_ar": "الأنبياء",
+		"namasurat_id": "Al-Anbiya'",
+		"artisurat_en": "The Prophets",
+		"artisurat_id": "Para Nabi",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Anbiyaa' yang terdiri atas 112 ayat, termasuk golongan surat Makkiyyah. Dinamai surat ini dengan al anbiyaa'(nabi-nabi), karena surat ini mengutarakan kisah beberapa orang nabi. Permulaan surat Al Anbiyaa' menegaskan bahwa manusia lalai dalam menghadapi hari berhisab, kemudian berhubung adanya pengingkaran kaum musyrik Mekah terhadap wahyu yang dibawa Nabi Muhammad s.a.w. maka ditegaskan Allah, kendatipun nabi-nabi itu manusia biasa, akan tetapi masing-masing mereka adalah manusia yang membawa wahyu yang pokok ajarannya adalah tauhid, dan keharusan manusia menyembah Allah Tuhan Penciptanya. Orang yang tidak mau mengakui kekuasaan Allah dan mengingkari ajaran yang dibawa oleh nabi-nabi itu, akan diazab Allah didunia dan di akhirat nanti. Kemudian dikemukakan kisah beberapa orang nabi dengan umatnya. Akhirnya surat itu ditutup dengan seruan agar kaum musyrik Mekah percaya kepada ajaran yang dibawa Muhammad s.a.w supaya tidak mengalami apa yang telah dialami oleh umat-umat yang dahulu.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/021.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/021.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/021AlAnbiyaa.mp3"
+	},
+
+	{
+		"nomorsurat": 22,
+		"jumlahayat": 78,
+		"namasurat_ar": "الحج",
+		"namasurat_id": "Al-Hajj",
+		"artisurat_en": "The Pilgrimage",
+		"artisurat_id": "Haji",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Hajj, termasuk golongan surat-surat Madaniyyah, terdiri atas 78 ayat, sedang menurut pendapat sebahagian ahli tafsir termasuk golongan surat-surat Makkiyah. Sebab perbedaan ini ialah karena sebahagian ayat-ayat surat ini ada yang diturunkan di Mekah dan sebahagian lagi diturunkan di Madinah. Dinamai surat ini Al Hajj, karena surat ini mengemukakan hal-hal yang berhubungan dengan ibadat haji, seperti ihram, thawaf, sa'i, wuquf di Arafah, mencukur rambut, syi'ar-syi'ar Allah, faedah-faedah dan hikmah-hikmah disyari'atkannya haji. Ditegaskan pula bahwa ibadat haji itu telah disyari'atkan di masa Nabi Ibrahim a.s., dan Ka'bah didirikan oleh Nabi Ibrahim a.s. bersama puteranya Ismail a.s.Menurut Al Ghaznawi, surat Al Hajj termasuk di antara surat- surat yang ajaib, diturunkan di malam dan di siang hari, dalam musafir dan dalam keadaan tidak musafir, ada ayat-ayat yang diturunkan di Mekah dan ada pula yang diturunkan di Madinah, isinya ada yang berhubungan dengan peperangan dan ada pula yang berhubungan dengan perdamaian, ada ayat-ayatnya yang muhkam dan ada pula yang mutasyabihaat.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/022.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/022.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/022AlHajj.mp3"
+	},
+
+	{
+		"nomorsurat": 23,
+		"jumlahayat": 118,
+		"namasurat_ar": "المؤمنون",
+		"namasurat_id": "Al-Mu'minun",
+		"artisurat_en": "The Believers",
+		"artisurat_id": "Orang-Orang Mukmin",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Mu'minuun terdiri atas 118 ayat, termasuk golongan surat-surat Makkiyyah. Dinamai Al Mu'minuun, karena permulaan ayat ini manerangkan bagaimana seharusnya sifat-sifat orang mukmin yang menyebabkan keberuntungan mereka di akhirat dan ketenteraman jiwa mereka di dunia. Demikian tingginya sifat-sifat itu, hingga ia telah menjadi akhlak bagi Nabi Muhammad s.a.w.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/023.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/023.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/023AlMuminuun.mp3"
+	},
+
+	{
+		"nomorsurat": 24,
+		"jumlahayat": 64,
+		"namasurat_ar": "النور",
+		"namasurat_id": "An-Nur",
+		"artisurat_en": "The Light",
+		"artisurat_id": "Cahaya",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat An Nuur terdiri atas 64 ayat, dan termasuk golongan surat-surat Madaniyah. Dinamai An Nuur yang berarti Cahaya, diambil dari kata An Nuur yang terdapat pada ayat ke 35. Dalam ayat ini, Allah s.w.t. menjelaskan tentang Nuur Ilahi, yakni Al Quran yang mengandung petunjuk-petunjuk. Petunjuk-petunjuk Allah itu, merupakan cahaya yang terang benderang menerangi alam semesta. Surat ini sebagian besar isinya memuat petunjuk- petunjuk Allah yang berhubungan dengan soal kemasyarakatan dan rumah tangga.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/024.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/024.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/024AnNuur.mp3"
+	},
+
+	{
+		"nomorsurat": 25,
+		"jumlahayat": 77,
+		"namasurat_ar": "الفرقان",
+		"namasurat_id": "Al-Furqan",
+		"artisurat_en": "The Criterion",
+		"artisurat_id": "Pembeda",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 77 ayat, termasuk golongan surat-surat Makkiyah. Dinamai Al Furqaan yang artinya pembeda, diambil dari kata Al Furqaan yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan Al Furqaan dalam ayat ini ialah Al Quran. Al Quran dinamakan Al Furqaan karena dia membedakan antara yang haq dengan yang batil. MAka pada surat ini pun terdapat ayat-ayat yang membedakan antara kebenaran ke-esaan Allah s.w.t. dengan kebatilan kepercayaan syirik.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/025.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/025.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/025AlFurqaan.mp3"
+	},
+
+	{
+		"nomorsurat": 26,
+		"jumlahayat": 227,
+		"namasurat_ar": "الشعراء",
+		"namasurat_id": "Asy-Syu'ara'",
+		"artisurat_en": "The Poets",
+		"artisurat_id": "Para Penyair",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri dari 227 ayat termasuk golongan surat-surat Makkiyyah. Dinamakan Asy Syu'araa' (kata jamak dari Asy Syaa'ir yang berarti penyair) diambil dari kata Asy Syuaraa' yang terdapat pada ayat 224, yaitu pada bagian terakhir surat ini, di kala Allah s.w.t. secara khusus menyebutkan kedudukan penyair- penyair. Para penyair-penyair itu mempunyai sifat-sifat yang jauh berbeda dengan para rasul-rasul; mereka diikuti oleh orang-orang yang sesat dan mereka suka memutar balikkan lidah dan mereka tidak mempunyai pendirian, perbuatan mereka tidak sesuai dengan tidak mempunyai pendirian, perbuatan mereka tidak sesuai dengan apa yang mereka ucapkan. Sifat-sifat yang demikian tidaklah sekali-kali terdapat pada rasul-rasul. Oleh karena demikian tidak patut bila Nabi Muhammad s.a.w. dituduh sebagai penyair, dan Al Quran dituduh sebagai syair, Al Quran adalah wahyu Allah, bukan buatan manusia.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/026.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/026.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/026AsySyuaaraa.mp3"
+	},
+
+	{
+		"nomorsurat": 27,
+		"jumlahayat": 93,
+		"namasurat_ar": "النمل",
+		"namasurat_id": "An-Naml",
+		"artisurat_en": "The Ant",
+		"artisurat_id": "Semut-semut",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat An Naml terdiri atas 98 ayat, termasuk golongan surat- surat Makkiyyah dan diturunkan sesudah surat Asy Syu'araa'. Dinamai dengan An Naml, karena pada ayat 18 dan 19 terdapat perkataan An Naml (semut), di mana raja semut mengatakan kepada anak buahnya agar masuk sarangnya masing-masing, supaya jangan terpijak oleh Nabi Sulaiman a.s. dan tentaranya yang akan lalu di tempat itu. Mendengar perintah raja semut kepada anak buahnya itu, Nabi Sulaiman tersenyum dan ta'jub atas keteraturan kerajaan semut itu dan beliau mengucapkan syukur kepada Tuhan Yang Maba Kuasa yang telah melimpahkan nikmat kepadanya, berupa kerajaan, kekayaan, memahami ucapan-ucapan binatang, mempunyai tentara yang terdiri atas jin, manusia, burung dan sebagainya. Nabi Sulaiman a.s. yang telah diberi Allah nikmat yang besar itu tidak merasa takabur dan sombong dan sebagai seorang hamba Allah mohon agar Allah memasukkannya ke dalam golongan orang-orang yang saleh. Allah s.w.t. menyebut binatang semut dalam surat ini agar manusia mengambil pelajaran dari kehidupan semut itu. Semut adalah binatang yang hidup berkelompok di dalam tanah, membuat liang dan ruang yang bertingkat-tingkat sebagai rumah dan gudang tempat menyimpan makanan musim dingin. Kerapian dan kedisiplinan yang terdapat dalam kerajaan semut ini, dinyatakan Allah dalam ayat ini dengan bagaimana rakyat semut mencari perlindungan segera agar jangan terpijak oleh Nabi Sulaiman a.s dan tentaranya, setelah menerima peringatan dari rajanya. Secara tidak langsung Allah mengingatkan juga kepada manusia agar dalam berusaha untuk mencukupkan kebutuhan sehari-hari, mementingkan pula kemaslahatan bersama dan sebagainya, rakyat semut mempunyai organisasi dan kerja sama yang baik pula. Dengan mengisahkan kisah Nabi Sulaiman a.s. dalam surat ini Allah mengisyaratkan hari depan dan kebesaran Nabi Muhammad s.a.w. Nabi Sulaiman a.s. sebagai seorang nabi, rasul dan raja yang dianugerahi kekayaan yang melimpah ruah, begitu pula Nabi Muhammad s.a.w. sebagai seorang nabi, rasul dan seoramg kepala negara yang ummi' dan miskin akan berhasil membawa dan memimpin umatnya ke jalan Allah.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/027.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/027.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/027AnNaml.mp3"
+	},
+
+	{
+		"nomorsurat": 28,
+		"jumlahayat": 88,
+		"namasurat_ar": "القصص",
+		"namasurat_id": "Al-Qasas",
+		"artisurat_en": "The Stories",
+		"artisurat_id": "Kisah-Kisah",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Qashash terdiri atas 88 ayat termasuk golongan surat-surat Makkiyyah. Dinamai dengan Al Qashash, karena pada ayat 25 surat ini terdapat kata Al Qashash yang berarti cerita. Ayat ini menerangkan bahwa setelah Nabi Musa a.s. bertemu dengan Nabi Syua'ib a.s. ia menceritakan cerita yang berhubungan  dengan dirinya sendiri, yakni pengalamannya dengan Fir'aun, sampai waktu ia diburu oleh Fir'aun karena membunuh seseorang dari bangsa Qibthi tanpa disengaja, Syua'ib a.s. menjawab bahwa Musa a.s. telah selamat dari pengejaran  orang-orang zalim. Turunnya ayat 25 surat ini amat besar artinya bagi Nabi Muhammad s.a.w. dan bagi sahabat-sahabat yang melakukan hijrah ke Madinah, yang menambah keyakinan mereka, bahwa akhirnya orang-orang Islamlah yang menang, sebab ayat ini menunjukkan bahwa barangsiapa yang berhijrah dari tempat musuh untuk mempertahankan keimanan, pasti akan berhasil dalam perjuangannya menghadapi musuh-musuh agama. Kepastian kemenangan bagi kaum muslimin itu, ditegaskan pada bagian akhir surat ini yang mengandung bahwa setelah hijrah ke Madinah kaum muslimin akan kembali ke Mekah sebagai pemenang dan penegak agama Allah. Surat Al Qashash ini adalah surat yang paling lengkap memuat cerita Nabi Musa a.s. sehingga menurut suatu riwayat, surat ini dinamai juga dengan surat Musa.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/028.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/028.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/028AlQashash.mp3"
+	},
+
+	{
+		"nomorsurat": 29,
+		"jumlahayat": 69,
+		"namasurat_ar": "العنكبوت",
+		"namasurat_id": "Al-'Ankabut",
+		"artisurat_en": "The Spider",
+		"artisurat_id": "Laba-Laba",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al 'Ankabuut terdiri atas 69 ayat, termasuk golongan surat-surrat Makkiyah. Dinamai Al 'Ankabuut berhubung terdapatnya perkataan Al 'Ankabuut yang berarti laba-laba pada ayat 41 surat ini, dimana Allah mengumpamakan penyembah-penyembah berhala-berhala itu, dengan laba-laba yang percaya kepada kekuatan rumahnya sebagai tempat ia berlindung dan tempat ia menjerat mangsanya, padahal kalau dihembus angin atau ditimpa oleh suatu barang yang kecil saja, rumah itu akan hancur. Begitu pula halnya dengan kaum musyrikin yang percaya kepada kekuatan sembahan-sembahan mereka sebagai tempat berlindung dan tempat meminta sesuatu yang mereka ingini, padahal sembahan-sembahan mereka itu tidak mampu sedikit juga menolong mereka dari azab Allah waktu di dunia, seperti yang terjadi pada kaum Nuh, kaum Ibrahim, kaum Luth, kaum Syu'aib, kaum Saleh, dan lain-lain. Apalagi menghadapi azab Allah di akhirat nanti, sembahan-sembahan mereka itu lebih tidak mampu menghindarkan dan melindungi mereka.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/029.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/029.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/029AlAnkabuut.mp3"
+	},
+
+	{
+		"nomorsurat": 30,
+		"jumlahayat": 60,
+		"namasurat_ar": "الروم",
+		"namasurat_id": "Ar-Rum",
+		"artisurat_en": "The Romans",
+		"artisurat_id": "Romawi",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Ar Ruum terdiri atas 60 ayat, termasuk golongan surat-surat Makkiyah diturunkan sesudah ayat Al Insyiqaq. Dinamakan Ar Ruum karena pada permulaan surat ini, yaitu ayat 2, 3 dan 4 terdapat pemberitaan bangsa Rumawi yang pada mulanya dikalahkan oleh bangsa Persia, tetapi setelah beberapa tahun kemudian kerajaan Ruum dapat menuntut balas dan mengalahkan kerajaan Persia kembali. Ini adalah suatu mukjizat Al Quran, yaitu memberitakan hal-hal yang akan terjadi di masa yang akan datang. Dan juga suatu isyarat bahwa kaum muslimin yang demikian lemahnya di waktu itu akan menang dan dapat menghancurkan kaum musyrikin. Isyarat ini terbukti pertama kali pada perang Badar.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/030.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/030.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/030ArRuum.mp3"
+	},
+
+	{
+		"nomorsurat": 31,
+		"jumlahayat": 34,
+		"namasurat_ar": "لقمان",
+		"namasurat_id": "Luqman",
+		"artisurat_en": "Luqman",
+		"artisurat_id": "Luqman",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat  Luqman  terdiri   dari   34   ayat,   termasuk   golongan   surat-surat Makkiyyah, diturunkan sesudah surat Ash Shaffaat. Dinamai Luqman karena pada  ayat  12   disebutkan   bahwa   Luqman   telah diberi   oleh   Allah   nikmat   dan   ilmu   pengetahuan,  oleh sebab itu dia bersyukur kepadaNya atas nikmat yang  diberikan  itu.   Dan   pada   ayat   13 sampai 19 terdapat nasihat-nasihat Luqman kepada anaknya.Ini adalah sebagai  isyarat   daripada   Allah   supaya   setiap   ibu   bapak melaksanakan  pula terhadap anak-anak mereka sebagai yang telah dilakukan oleh Luqman.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/031.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/031.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/031Luqman.mp3"
+	},
+
+	{
+		"nomorsurat": 32,
+		"jumlahayat": 30,
+		"namasurat_ar": "السجدة",
+		"namasurat_id": "As-Sajdah",
+		"artisurat_en": "The Prostration",
+		"artisurat_id": "Sajdah",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat As Sajdah terdiri atas 30 ayat termasuk golongan surat Makkiyah diturunkan sesudah surat Al Mu'minuun. Dinamakan As Sajdah berhubung pada surat ini terdapat ayat sajdah, yaitu ayat yang kelima belas.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/032.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/032.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/032AsSajdah.mp3"
+	},
+
+	{
+		"nomorsurat": 33,
+		"jumlahayat": 73,
+		"namasurat_ar": "الأحزاب",
+		"namasurat_id": "Al-Ahzab",
+		"artisurat_en": "The Clans",
+		"artisurat_id": "Golongan Yang Bersekutu",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Ahzab terdiri atas 73 ayat, termasuk golongan surat-surat Madaniyah, diturunkan sesudah surat Ali'Imran. Dinamai Al Ahzab yang berarti golongan-golongan yang bersekutu karena dalam surat ini terdapat beberapa ayat, yaitu ayat 9 sampai dengan ayat 27 yang berhubungan dengan peperangan Al Ahzab, yaitu peperangan yang dilancarkan oleh orang-orang Yahudi, kaum munafik dan orang-orang musyrik terhadap orang-orang mukmin di Medinah. Mereka telah mengepung rapat orang- orang mukmin sehingga sebahagian dari mereka telah berputus asa dan menyangka bahwa mereka akan dihancurkan oleh musuh-musuh mereka itu. Ini adalah suatu ujian yang berat dari Allah untuk menguji sampai dimana teguhnya keimanan mereka. Akhirnya Allah mengirimkan bantuan berupa tentara yang tidak kelihatan dan angin topan, sehingga musuh-musuh itu menjadi kacau balau dan melarikan diri.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/033.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/033.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/033AlAhzab.mp3"
+	},
+
+	{
+		"nomorsurat": 34,
+		"jumlahayat": 54,
+		"namasurat_ar": "سبأ",
+		"namasurat_id": "Saba'",
+		"artisurat_en": "Sheba",
+		"artisurat_id": "Saba'",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Saba' terdiri atas 54 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Luqman. Dinamakan Saba' karena didalamnya terdapat kisah kaum Saba'. Saba' adalah nama suatu kabilah dari kabilah-kabilah Arab yang tinggal di daerah Yaman sekarang ini. Mereka mendirikan kerajaan yang terkenal dengan nama kerajaan Sabaiyyah, ibukotanya Ma'rib; telah dapat membangun suatu bendungan raksasa, yang bernama Bendungan Ma'rib, sehingga negeri meka subur dan makmur. Kemewahan dan kemakmuran ini menyebabkan kaum Saba' lupa dan ingkar kepada Allah yang telah melimpahkan nikmatnya kepada mereka, serta mereka mengingkari pula seruan para rasul. Karena keingkaran mereka ini, Allah menimpahkan kepada mereka azab berupa sailul 'arim (banjir yang besar) yang ditimbulkan oleh bobolnya bendungan Ma'rib. Setelah bendungan ma'rib bobol negeri Saba' menjadi kering dan kerajaan mereka hancur.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/034.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/034.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/034Sabaa.mp3"
+	},
+
+	{
+		"nomorsurat": 35,
+		"jumlahayat": 45,
+		"namasurat_ar": "فاطر",
+		"namasurat_id": "Fatir",
+		"artisurat_en": "The Originator",
+		"artisurat_id": "Maha Pencipta",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Faathir terdiri atas 45 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Furqaan dan merupakan surat akhir dari urutan surat-surat dalam Al Quran yang dimulai dengan Alhamdulillah. Dinamakan Faathir (pencipta) ada hubungannya dengan perkataan Faathir yang terdapat pada ayat pertama pada surat ini. Pada ayat tersebut diterangkan bahwa Allah adalah Pencipta langit dan bumi, Pencipta malaikat-malaikat, Pencipta semesta alam yang semuanya itu adalah sebagai bukti atas kekuasaan dan kebesaran-Nya. Surat ini dinamai juga dengan surat Malaikat karena pada ayat pertama disebutkan bahwa Allah telah menjadikan malaikat-malaikat sebagai utusan-Nya  yang mempunyai beberapa sayap.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/035.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/035.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/035Faathir.mp3"
+	},
+
+	{
+		"nomorsurat": 36,
+		"jumlahayat": 83,
+		"namasurat_ar": "يس",
+		"namasurat_id": "Yasin",
+		"artisurat_en": "Yaseen",
+		"artisurat_id": "Yasin",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Yaasiin terdiri atas 83 ayat, termasuk golongan surat-surat Makkiyyah,  diturunkan sesudah surat Jin. Dinamai Yaasiin karena dimulai dengan huruf Yaasiin. Sebagaimana halnya arti huruf-huruf abjad yang terletak pada permulaan beberapa surat Al Quran, maka demikian pula arti Yaasiin yang terdapat pada ayat permulaan surat ini, yaitu Allah mengisyaratkan bahwa sesudah huruf tersebut akan dikemukakan hal-hal yang penting antara lain: Allah bersumpah dengan Al Quran bahwa Muhammad s.a.w. benar-benar seorang rasul yang diutus-Nya kepada kaum yang belum pernah diutus kepada mereka rasul-rasul.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/036.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/036.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/036Yaasiin.mp3"
+	},
+
+	{
+		"nomorsurat": 37,
+		"jumlahayat": 182,
+		"namasurat_ar": "الصافات",
+		"namasurat_id": "As-Saffat",
+		"artisurat_en": "Those drawn up in Ranks",
+		"artisurat_id": "Barisan-Barisan",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Ash Shaaffaat terdiri atas 182 ayat termasuk golongan surat Makkiyyah diturunkan sesudah surat Al An'aam. Dinamai dengan Ash Shaaffaat (yang bershaf-shaf) ada hubungannya dengan perkataan Ash Shaaffaat yang terletak pada ayat permulaan surat ini yang mengemukakan bagaimana para malaikat yang berbaris di hadapan Tuhannya yang bersih jiwanya, tidak dapat digoda oleh syaitan. Hal ini hendaklah menjadi i'tibar bagi manusia dalam menghambakan dirinya kepada Allah.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/037.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/037.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/037AshShaaffaat.mp3"
+	},
+
+	{
+		"nomorsurat": 38,
+		"jumlahayat": 88,
+		"namasurat_ar": "ص",
+		"namasurat_id": "Sad",
+		"artisurat_en": "The letter Saad",
+		"artisurat_id": "Sad",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Shaad  terdiri atas  88 ayat  termasuk golongan  surat Makkiyyah, diturunkan sesudah surat Al Qamar. Dinamai  dengan  Shaad  karena surat  ini  dimulai  dengan Shaad (selanjutnya lihat no. 10). Dalam surat  ini Allah  bersumpah dengan  Al Quran,   untuk menunjukkan bahwa Al Quran itu suatu  kitab yang  agung dan bahwa siapa saja yang  mengikutinya  akan mendapat  kebahagiaan  dunia  dan akhirat dan untuk menunjukkan bahwa Al Quran ini adalah mukjizat Nabi Muhammad s.a.w. yang  menyatakan kebenarannya dan ketinggian akhlaknya.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/038.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/038.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/038Shaad.mp3"
+	},
+
+	{
+		"nomorsurat": 39,
+		"jumlahayat": 75,
+		"namasurat_ar": "الزمر",
+		"namasurat_id": "Az-Zumar",
+		"artisurat_en": "The Groups",
+		"artisurat_id": "Rombongan",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Az Zumar terdiri ataz 75 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Saba'. Dinamakan Az Zumar (Rombongan-rombongan) karena perkataan Az Zumar yang terdapat pada ayat 71 dan 73 ini. Dalam ayat-ayat tersebut diterangkan keadaan manusia di hari kiamat setelah mereka dihisab, di waktu itu mereka terbagi atas dua rombongan; satu rombongan dibawa ke neraka dan satu rombongan lagi dibawa ke syurga. Masing- masing rombongan memperoleh balasan dari apa yang mereka kerjakan di dunia dahulu. Surat ini dinamakan juga Al Ghuraf (kamar-kamar) berhubung perkataan ghuraf yang terdapat pada ayat 20, dimana diterangkan keadaan kamar-kamar dalam syurga yang diperoleh orang-orang yang bertakwa.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/039.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/039.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/039AzZumar.mp3"
+	},
+
+	{
+		"nomorsurat": 40,
+		"jumlahayat": 85,
+		"namasurat_ar": "غافر",
+		"namasurat_id": "Gafir",
+		"artisurat_en": "The Forgiver",
+		"artisurat_id": "Maha Pengampun",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Mu'min terdiri atas 85 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Az Zumar. Dinamai Al Mu'min (Orang yang beriman), berhubung dengan perkataan mukmin yang terdapat pada ayat 28 surat ini. Pada ayat 28 diterangkan bahwa salah seorang dari kaum Fir'aun telah beriman kepada Nabi Musa a.s. dengan menyembunyikan imannya kepada kaumnya, setelah mendengar keterangan dan melihat mukjizat yang dikemukakan oleh Nabi Musa a.s. Hati kecil orang ini mencela Fir'aun dan kaumnya yang tidak mau beriman kepada Nabi Musa a.s., sekalipun telah dikemukakan keterangan dan mukjizat yang diminta mereka.Dinamakan pula Ghafir (yang mengampuni), karena ada hubungannya dengan kalimat Ghafir yang terdapat pada ayat 3 surat ini. Ayat ini mengingatkan bahwa Maha Pengampun dan Maha Penerima Taubat adalah sebagian dari sifat-sifat Allah, karena itu hamba-hamba Allah tidak usah khawatir terhadap  perbuatan-perbuatan dosa yang telah terlanjur mereka lakukan, semuanya itu akan diampuni Allah asal benar-benar memohon ampun dan bertaubat kepada-Nya dan berjanji tidak akan mengerjakan  perbuatan-perbuatan dosa itu lagi. Dan surat ini dinamai Dzit Thaul (Yang Mempunyai Kurnia) karena perkataan tersebut terdapat pada ayat 3.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/040.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/040.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/040AlMuumin.mp3"
+	},
+
+	{
+		"nomorsurat": 41,
+		"jumlahayat": 54,
+		"namasurat_ar": "فصلت",
+		"namasurat_id": "Fussilat",
+		"artisurat_en": "Explained in detail",
+		"artisurat_id": "Yang Dijelaskan",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Fushshilat terdiri atas 54 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Mu'min. Dinamai Fushshilat (yang dijelaskan) karena ada hubungannya dengan perkataan Fushshilat yang terdapat pada permulaan surat ini yang berarti yang dijelaskan. Maksudnya ayat-ayatnya diperinci dengan jelas tentang hukum-hukum, keimanan, janji dan ancaman, budi pekerti, kisah, dan sebagainya. Dinamai juga dengan Haa Miim dan As Sajdah karena surat ini dimulai dengan Haa Miim dan dalam surat ini terdapat ayat Sajdah.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/041.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/041.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/041Fushshilat.mp3"
+	},
+
+	{
+		"nomorsurat": 42,
+		"jumlahayat": 53,
+		"namasurat_ar": "الشورى",
+		"namasurat_id": "Asy-Syura",
+		"artisurat_en": "Consultation",
+		"artisurat_id": "Musyawarah",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Asy Syuura terdiri atas 53 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Fushshilat. Dinamai dengan Asy Syuura (musyawarat) diambil dari perkataan Syuura yang terdapat pada ayat 38 surat ini. Dalam ayat tersebut diletakkan salah satu dari dasar-dasar pemerintahan Islam ialah musyawarat. Dinamai juga Haa Miim 'Ain Siin Qaaf karena surat ini dimulai dengan huruf-huruf hijaiyah itu.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/042.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/042.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/042AsySyuura.mp3"
+	},
+
+	{
+		"nomorsurat": 43,
+		"jumlahayat": 89,
+		"namasurat_ar": "الزخرف",
+		"namasurat_id": "Az-Zukhruf",
+		"artisurat_en": "Ornaments of gold",
+		"artisurat_id": "Perhiasan",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Az Zukhruf terdiri atas 89 ayat, termasuk golongan  surat-surat Makkiyyah, diturunkan sesudah surat Asy Syuura. Dinamai Az Zukhruf (Perhiasan) diambil dari perkataan Az Zukhruf yang terdapat pada ayat 35 surat ini.  Orang-orang musyrik mengukur tinggi rendahnya derajat seseorang tergantung kepada perhiasan dan harta benda yang ia punyai, karena Muhammad s.a.w. adalah seorang anak yatim lagi miskin, ia tidak pantas diangkat Allah sebagai seorang rasul dan nabi.  Pangkat rasul dan nabi harus diberikan kepada orang yang kaya.  Ayat ini menegaskan bahwa harta tidak dapat dijadikan dasar untuk mengukur tinggi rendahnya derajat seseorang, karena harta itu merupakan hiasan kehidupan duniawi, bukan berarti kesenangan akhirat.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/043.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/043.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/043AzZukhruf.mp3"
+	},
+
+	{
+		"nomorsurat": 44,
+		"jumlahayat": 59,
+		"namasurat_ar": "الدخان",
+		"namasurat_id": "Ad-Dukhan",
+		"artisurat_en": "The Smoke",
+		"artisurat_id": "Kabut",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Ad Dukhaan terdiri atas 59 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah Az Zukhruf. Dinamai Ad Dukhaan (kabut), diambil dari perkataan Dukhaan yang terdapat pada ayat 10 surat ini.Menurut riwayat Bukhari secara ringkas dapat diterangkan sebagai berikut: Orang-orang kafir Mekah dalam menghalang-halangi agama Islam dan menyakiti serta mendurhakai Nabi Muhammad s.a.w. sudah melewati batas, karena itu Nabi mendoa kepada Allah agar diturunkan azab sebagaimana yang telah diturunkan kepada orang-orang yang durhaka kepada Nabi Yusuf yaitu musim kemarau yang panjang.  Do'a Nabi itu dikabulkan Allah sampai orang-orang kafir memakan tulang dan bangkai, karena kelaparan.  Mereka selalu menengadah ke langit mengharap pertolongan Allah.  Tetapi tidak satupun yang mereka lihat kecuali kabut yang menutupi pandangan mereka.Akhirnya mereka datang kepada Nabi agar Nabi memohon kepada Allah supaya hujan diturunkan.  Setelah Allah mengabulkan doa Nabi, dan hujan di turunkan, mereka kembali kafir seperti semula; karena itu Allah menyatakan bahwa nanti mereka akan diazab dengan azab yang pedih.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/044.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/044.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/044AdDukhaan.mp3"
+	},
+
+	{
+		"nomorsurat": 45,
+		"jumlahayat": 37,
+		"namasurat_ar": "الجاثية",
+		"namasurat_id": "Al-Jasiyah",
+		"artisurat_en": "Crouching",
+		"artisurat_id": "Berlutut",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Jaatsiyah terdiri atas 37 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Ad Dukhaan. Dinamai dengan Al Jaatsiyah (yang berlutut) diambil dari perkataan Jaatsiyah yang terdapat pada ayat 28 surat ini. Ayat tersebut menerangkan tentang keadaan manusia pada hari kiamat, yaitu semua manusia dikumpulkan ke hadapan mahkamah Allah Yang Maha Tinggi yang memberikan keputusan terhadap perbuatan yang telah mereka lakukan di dunia. Pada hari itu semua manusia berlutut di hadapan Allah. Dinamai juga dengan Asy Syari'ah diambil dari perkataan Syari'ah (Syari'at) yang terdapat pada ayat 18 surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/045.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/045.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/045AlJaatsiyah.mp3"
+	},
+
+	{
+		"nomorsurat": 46,
+		"jumlahayat": 35,
+		"namasurat_ar": "الأحقاف",
+		"namasurat_id": "Al-Ahqaf",
+		"artisurat_en": "The Dunes",
+		"artisurat_id": "Bukit Pasir",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Ahqaaf terdiri dari 35 ayat termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Jaatsiyah. Dinamai Al Ahqaaf  (bukit-bukit pasir) dari perkataan Al Ahqaaf yang terdapat pada ayat 21 surat ini.Dalam ayat tersebut dan ayat-ayat sesudahnya diterangkan bahwa Nabi Hud a.s. telah menyampaikan risalahnya kepada kaumnya di Al Ahqaaf yang sekarang dikenal dengan Ar Rab'ul Khaali, tetapi kaumnya tetap ingkar sekalipun mereka telah diberi peringatan pula oleh rasul-rasul yang sebelumnya.  Akhirnya Allah menghancurkan mereka dengan tiupan angin kencang.  Hal ini adalah sebagai isyarat dari Allah kepada kaum musyrikin Quraisy bahwa mereka akan dihancurkan bila mereka tidak mengindahkan seruan Rasul.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/046.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/046.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/046AlAhqaaf.mp3"
+	},
+
+	{
+		"nomorsurat": 47,
+		"jumlahayat": 38,
+		"namasurat_ar": "محمد",
+		"namasurat_id": "Muhammad",
+		"artisurat_en": "Muhammad",
+		"artisurat_id": "Muhammad",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Muhammad terdiri atas 38 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hadiid. Nama Muhammad sebagai nama surat ini diambil dari perkataan Muhammad yang terdapat pada ayat 2 surat ini. Pada ayat 1, 2, dan 3 surat ini, Allah membandingkan antara hasil yang diperoleh oleh orang-orang yang tidak percaya kepada apa yang diturunkan kepada Nabi Muhammad s.a.w dan hasil yang diperoleh oleh orang-orang yang tidak percaya kepadanya. Orang-orang yang percaya kepada apa yang dibawa oleh Muhammad s.a.w merekalah orang-orang yang beriman dan mengikuti yang hak, diterima Allah semua amalnya, diampuni segala kesalahannya. Adapun orang-orang yang tidak percaya kepada Muhammad s.a.w adalah orang-orang yang mengikuti kebatilan, amalnya tidak diterima, dosa mereka tidak diampuni, kepada mereka dijanjikan azab di dunia dan di akhirat.Dinamai juga dengan Al Qital (peperangan), karena sebahagian besar surat ini mengutarakan tentang peperangan dan pokok-pokok hukumnya, serta bagaimana seharusnya sikap orang-orang mukmin terhadap orang-orang kafir.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/047.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/047.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/047Muhammad.mp3"
+	},
+
+	{
+		"nomorsurat": 48,
+		"jumlahayat": 29,
+		"namasurat_ar": "الفتح",
+		"namasurat_id": "Al-Fath",
+		"artisurat_en": "The Victory",
+		"artisurat_id": "Kemenangan",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Fath terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Jum'ah. Dinamakan Al Fath (kemenangan) diambil dari perkataan Fat-han yang terdapat pada ayat pertama surat ini. Sebagian besar dari ayat-ayat surat ini menerangkan hal-hal yang berhubungan dengan kemenangan yang dicapai Nabi Muhammad s.a.w. dalam peperangan-peperangannya. Nabi Muhammad s.a.w. sangat gembira dengan turunnya ayat pertama surat ini. Kegembiraan ini dinyatakan dalam sabda beliau yang diriwayatkan Bukhari; Sesungguhnya telah diturunkan kepadaku satu surat, yang surat itu benar-benar lebih aku cintai dari seluruh apa yang disinari matahari. Kegembiraan Nabi Muhammad s.a.w. itu ialah karena ayat-ayatnya menerangkan tentang kemenangan yang akan diperoleh Muhammad s.a.w. dalam perjuangannya dan tentang kesempurnaan nikmat Allah kepadanya.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/048.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/048.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/048AlFath.mp3"
+	},
+
+	{
+		"nomorsurat": 49,
+		"jumlahayat": 18,
+		"namasurat_ar": "الحجرات",
+		"namasurat_id": "Al-Hujurat",
+		"artisurat_en": "The Inner Apartments",
+		"artisurat_id": "Kamar-Kamar",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Hujuraat terdiri atas 18 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Mujaadalah. Dinamai Al Hujuraat diambil dari perkataan Al Hujuraat yang terdapat pada ayat 4 surat ini. Ayat tersebut mencela para sahabat yang memanggil Nabi Muhammad SAW yang sedang berada di dalam kamar rumahnya bersama isterinya. Memanggil Nabi Muhammad SAW dengan cara dan dalam keadaan yang demikian menunjukkan sifat kurang hormat kepada beliau dan mengganggu ketenteraman beliau.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/049.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/049.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/049AlHujuraat.mp3"
+	},
+
+	{
+		"nomorsurat": 50,
+		"jumlahayat": 45,
+		"namasurat_ar": "ق",
+		"namasurat_id": "Qaf",
+		"artisurat_en": "The letter Qaaf",
+		"artisurat_id": "Qaf",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Qaaf terdiri atas 45 ayat, termasuk golongan surat-surat Makkiyah diturunkan sesudah surat Al Murssalaat. Dinamai Qaaf karena surat ini dimulai dengan huruf Qaaf. Menurut hadits yang diriwayatkan Imam Muslim, bahwa Rasulullah SAW senang membaca surat ini pada rakaat pertama sembahyang subuh dan pada shalat hari raya. Sedang menurut riwayat Abu Daud, Al Baihaqy dan Ibnu Majah bahwa Rasulullah SAW membaca surat ini pada tiap-tiap membaca Khutbah pada hari Jum'at. Kedua riwayat ini menunjukkan bahwa surat QAAF sering dibaca Nabi Muhammad SAW di tempat-tempat umum, untuk memperingatkan manusia tentang kejadian mereka dan nikmat-nikmat yang diberikan kepadanya, begitu pula tentang hari berbangkit, hari berhisab, syurga, neraka, pahala, dosa, dsb. Surat ini dinamai juga Al Baasiqaat, diambil dari perkataan Al- Baasiqaat yang terdapat pada ayat 10 surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/050.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/050.mp",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/050Qaaf.mp3"
+	},
+
+	{
+		"nomorsurat": 51,
+		"jumlahayat": 60,
+		"namasurat_ar": "الذاريات",
+		"namasurat_id": "Az-Zariyat",
+		"artisurat_en": "The Winnowing Winds",
+		"artisurat_id": "Angin yang Menerbangkan",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Adz Dzaariyaat terdiri atas 60 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Ahqaaf. Dinamai Adz Dzaariyaat (angin yang menerbangkan), diambil dari perkataan Adz Dzaariyaat yang terdapat pada ayat pertama surat ini. Allah bersumpah dengan angin, mega, bahtera, dan malaikat yang menjadi sumber kesejahteraan dan pembawa kemakmuran. Hal ini meng- isyaratkan inayat Allah kepada hamba-hamba-Nya.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/051.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/051.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/051AdzDzaariyaat.mp3"
+	},
+
+	{
+		"nomorsurat": 52,
+		"jumlahayat": 49,
+		"namasurat_ar": "الطور",
+		"namasurat_id": "At-Tur",
+		"artisurat_en": "The Mount",
+		"artisurat_id": "Bukit Tursina",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Ath Thuur terdiri atas 49 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat As Sajdah. Dinamai Ath Thuur (Bukit) diambil dari perkataan Ath Thuur yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan bukit di sini ialah bukit Thursina yang terletak di semenanjung Sinai, tempat Nabi Musa menerima wahyu dari Tuhannya.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/052.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/052.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/052AthThuur.mp3"
+	},
+
+	{
+		"nomorsurat": 53,
+		"jumlahayat": 62,
+		"namasurat_ar": "النجم",
+		"namasurat_id": "An-Najm",
+		"artisurat_en": "The Star",
+		"artisurat_id": "Bintang",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat An Najm terdiri atas 62 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Ikhlash. Nama An Najm (bintang), diambil dari perkataan  An Najm yang terdapat pada ayat pertama surat ini. Allah bersumpah dengan An Najm (bintang) adalah karena bintang-bintang yang timbul dan tenggelam, amat besar manfaatnya bagi manusia, sebagai pedoman bagi manusia dalam melakukan pelayaran di lautan, dalam perjalanan di padang pasir, untuk menentukan peredaran musim dan sebagainya.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/053.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/053.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/053AnNajm.mp3"
+	},
+
+	{
+		"nomorsurat": 54,
+		"jumlahayat": 55,
+		"namasurat_ar": "القمر",
+		"namasurat_id": "Al-Qamar",
+		"artisurat_en": "The Moon",
+		"artisurat_id": "Bulan",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Qamar terdiri atas 55 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesedah surat Ath Thaariq. Nama Al Qamar (bulan) diambil dari perkataan Al Qamar yang terdapat pada ayat pertama surat ini. Pada ayat ini diterangkan tentang terbelahnya bulan sebagai mukjizat Nabi Muhammad s.a.w.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/054.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/054.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/054AlQamar.mp3"
+	},
+
+	{
+		"nomorsurat": 55,
+		"jumlahayat": 78,
+		"namasurat_ar": "الرحمن",
+		"namasurat_id": "Ar-Rahman",
+		"artisurat_en": "The Beneficent",
+		"artisurat_id": "Maha Pengasih",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Ar Rahmaan terdiri atas 78 ayat, termasuk golongan surat- surat Makkiyyah, diturunkan sesudah surat Ar Ra'du. Dinamai Ar Rahmaan (Yang Maha Pemurah), diambil dari perkataan Ar Rahmaan yang terdapat pada ayat pertama surat ini. Ar Rahmaan adalah salah satu dari nama-nama Allah. Sebagian besar dari surat ini menerangkan kepemurahan Allah s.w.t. kepada hamba-hamba-Nya, yaitu dengan memberikan nikmat-nikmat yang tidak terhingga baik di dunia maupun di akhirat nanti.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/055.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/055.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/055ArRahmaan.mp3"
+	},
+
+	{
+		"nomorsurat": 56,
+		"jumlahayat": 96,
+		"namasurat_ar": "الواقعة",
+		"namasurat_id": "Al-Waqi'ah",
+		"artisurat_en": "The Inevitable",
+		"artisurat_id": "Hari Kiamat",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Waaqi'ah terdiri atas 96 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Thaa Haa. \tDinamai dengan Al Waaqi'ah (Hari Kiamat), diambil dari perkataan Al Waaqi'ah yang terdapat pada ayat pertama surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/056.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/056.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/056AlWaqiah.mp3"
+	},
+
+	{
+		"nomorsurat": 57,
+		"jumlahayat": 29,
+		"namasurat_ar": "الحديد",
+		"namasurat_id": "Al-Hadid",
+		"artisurat_en": "The Iron",
+		"artisurat_id": "Besi",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Hadiid terdiri atas 29 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Az Zalzalah. Dinamai Al Hadiid (Besi), diambil dari perkataan Al Hadiid yang terdapat pada ayat 25 surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/057.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/057.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/057AlHadiid.mp3"
+	},
+
+	{
+		"nomorsurat": 58,
+		"jumlahayat": 22,
+		"namasurat_ar": "المجادلة",
+		"namasurat_id": "Al-Mujadalah",
+		"artisurat_en": "The Pleading Woman",
+		"artisurat_id": "Gugatan",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Mujaadilah terdiri atas 22 ayat, termasuk golongan surat Madaniyyah, diturunkan sesudah surat Al Munaafiquun. Surat ini dinamai dengan Al Mujaadilah (wanita yang mengajukan gugatan) karena pada awal surat ini disebutkan bantahan seorang perempuan, menurut riwayat bernama Khaulah binti Tsa'labah terhadap sikap suaminya yang telah menzhiharnya. Hal ini diadukan kepada Rasulullah s.a.w. dan ia menuntut supaya beliau memberikan putusan yang adil dalam persoalan itu. Dinamai juga Al Mujaadalah yang berarti perbantahan.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/058.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/058.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/058AlMujaadilah.mp3"
+	},
+
+	{
+		"nomorsurat": 59,
+		"jumlahayat": 24,
+		"namasurat_ar": "الحشر",
+		"namasurat_id": "Al-Hasyr",
+		"artisurat_en": "The Exile",
+		"artisurat_id": "Pengusiran",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Hasyr terdiri atas 24 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Bayyinah. \tDinamai surat Al Hasyr (pengusiran) diambil dari perkataan Al-Hasyr yang terdapat pada ayat 2 surat ini. Di dalam surat ini disebutkan  kisah pengusiran suatu suku Yahudi yang bernama Bani Nadhir yang berdiam  di sekitar kota Madinah.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/059.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/059.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/059AlHasyr.mp3"
+	},
+
+	{
+		"nomorsurat": 60,
+		"jumlahayat": 13,
+		"namasurat_ar": "الممتحنة",
+		"namasurat_id": "Al-Mumtahanah",
+		"artisurat_en": "She that is to be examined",
+		"artisurat_id": "Wanita Yang Diuji",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Mumtahanah terdiri atas 13 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Ahzab. Dinamai Al Mumtahanah (wanita yang diuji), diambil dari kata \"Famtahinuuhunna\" yang berarti maka ujilah mereka, yang terdapat pada ayat 10 surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/060.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/060.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/060AlMumtahanah.mp3"
+	},
+
+	{
+		"nomorsurat": 61,
+		"jumlahayat": 14,
+		"namasurat_ar": "الصف",
+		"namasurat_id": "As-Saff",
+		"artisurat_en": "The Ranks",
+		"artisurat_id": "Barisan",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Ash Shaff terdiri atas 14 ayat termasuk golongan surat-surat Madaniyyah. Dinamai dengan Ash Shaff, karena pada ayat 4 surat ini terdapat kata Shaffan yang berarti satu barisan. Ayat ini menerangkan apa yang diridhai Allah sesudah menerangkan apa yang dimurkai-Nya. Pada ayat 3 diterangkan bahwa Allah murka kepada orang yang hanya pandai berkata saja tetapi tidak melaksanakan apa yang diucapkannya. Dan pada ayat 4 diterangkan bahwa Allah menyukai orang yang mempraktekkan apa yang diucapkannya yaitu orang-orang yang berperang pada jalan Allah dalam satu barisan.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/061.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/061.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/061AshShaff.mp3"
+	},
+
+	{
+		"nomorsurat": 62,
+		"jumlahayat": 11,
+		"namasurat_ar": "الجمعة",
+		"namasurat_id": "Al-Jumu'ah",
+		"artisurat_en": "الجمعة",
+		"artisurat_id": "Jumat",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Jumu'ah ini terdiri atas 11 ayat, termasuk golongan-golongan surat-surat Madaniyyah dan diturunkan sesudah surat Ash Shaf. Nama surat Al Jumu'ah diambil dari kata Al Jumu'ah yang terdapat pada ayat 9 surat ini yang artinya: hari Jum'at.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/062.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/062.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/062AlJumuah.mp3"
+	},
+
+	{
+		"nomorsurat": 63,
+		"jumlahayat": 11,
+		"namasurat_ar": "المنافقون",
+		"namasurat_id": "Al-Munafiqun",
+		"artisurat_en": "The Hypocrites",
+		"artisurat_id": "Orang-Orang Munafik",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hajj. Surat ini dinamai Al-Munaafiquun  yang artinya orang-orang munafik, karena surat ini mengungkapkan  sifat-sifat orang-orang munafik.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/063.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/063.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/063AlMunaafiquun.mp3"
+	},
+
+	{
+		"nomorsurat": 64,
+		"jumlahayat": 18,
+		"namasurat_ar": "التغابن",
+		"namasurat_id": "At-Tagabun",
+		"artisurat_en": "Mutual Disillusion",
+		"artisurat_id": "Pengungkapan Kesalahan",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat ini terdiri atas 18 ayat, termasuk golongan surat-surat Madaniyyah dan diturunkan sesudah surat At Tahrim. Nama At Taghaabun diambil dari kata At Taghaabun yang terdapat pada ayat ke 9 yang artinya hari dinampakkan kesalahan-kesalahan.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/064.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/064.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/064AtTaghaabun.mp3"
+	},
+
+	{
+		"nomorsurat": 65,
+		"jumlahayat": 12,
+		"namasurat_ar": "الطلاق",
+		"namasurat_id": "At-Talaq",
+		"artisurat_en": "Divorce",
+		"artisurat_id": "Talak",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Insaan. Dinamai surat Ath Thalaaq karena kebanyakan ayat-ayatnya mengenai masalah talak dan yang berhubungan dengan masalah itu.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/065.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/065.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/065AthThalaaq.mp3"
+	},
+
+	{
+		"nomorsurat": 66,
+		"jumlahayat": 12,
+		"namasurat_ar": "التحريم",
+		"namasurat_id": "At-Tahrim",
+		"artisurat_en": "The Prohibition",
+		"artisurat_id": "Pengharaman",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat ini terdiri atas 12 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Al Hujuraat. Dinamai surat At Tahrim karena pada awal surat ini terdapat kata tuharrim yang kata asalnya adalah Attahrim yang berarti mengharamkan.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/066.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/066.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/066AtTahrim.mp3"
+	},
+
+	{
+		"nomorsurat": 67,
+		"jumlahayat": 30,
+		"namasurat_ar": "الملك",
+		"namasurat_id": "Al-Mulk",
+		"artisurat_en": "The Sovereignty",
+		"artisurat_id": "Kerajaan",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 30 ayat, termasuk golongan surat-surat  Makkiyah, diturunkan sesudah Ath Thuur. Nama Al Mulk diambil dari kata Al Mulk yang terdapat pada ayat pertama surat ini yang artinya kerajaan atau kekuasaan. Dinamai pula surat ini dengan At Tabaarak (Maha Suci).",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/067.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/067.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/067AlMulk.mp3"
+	},
+
+	{
+		"nomorsurat": 68,
+		"jumlahayat": 52,
+		"namasurat_ar": "القلم",
+		"namasurat_id": "Al-Qalam",
+		"artisurat_en": "The Pen",
+		"artisurat_id": "Pena",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 52 ayat,termasuk golongan surat-surat Makkiyah,diturunkan sesudah surat Al Alaq. Nama Al Qalam diambil dari kata Al Qalam yang terdapat pada ayat pertama surat iniyang artinya pena. Surat ini dinamai pula dengan surat Nun (huruf nun).",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/068.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/068.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/068AlQalam.mp3"
+	},
+
+	{
+		"nomorsurat": 69,
+		"jumlahayat": 52,
+		"namasurat_ar": "الحاقة",
+		"namasurat_id": "Al-Haqqah",
+		"artisurat_en": "The Reality",
+		"artisurat_id": "Hari Kiamat",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 52 ayat,termasuk golongan surat-surat Makkiyah,diturunkan sesudah surat Al Mulk.  Nama Al Haaqqah diambil dari kata Al Haaqqah yang terdapat pada ayat pertama surat ini yang artinya hari kiamat",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/069.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/069.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/069AlHaaqqah.mp3"
+	},
+
+	{
+		"nomorsurat": 70,
+		"jumlahayat": 44,
+		"namasurat_ar": "المعارج",
+		"namasurat_id": "Al-Ma'arij",
+		"artisurat_en": "The Ascending Stairways",
+		"artisurat_id": "Tempat Naik",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 44 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Haaqqah.Perkataan Al Ma'arij yang menjadi nama bagi surat ini adalah kata jamak dari Mi'raj, diambil dari perkataan Al Ma'arij yang terdapat pada ayat 3, yang artinya menurut bahasa tempat naik. Sedang para ahli  tafsir memberi arti bermacam-macam, di antaranya langit, nikmat karunia dan derajat atau tingkatan yang diberikan Allah s.w.t kepada ahli surga.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/070.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/070.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/070AlMaaarij.mp3"
+	},
+
+	{
+		"nomorsurat": 71,
+		"jumlahayat": 28,
+		"namasurat_ar": "نوح",
+		"namasurat_id": "Nuh",
+		"artisurat_en": "Noah",
+		"artisurat_id": "Nuh",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 28 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An Nahl. Dinamakan dengan surat Nuh karena surat ini seluruhnya menjelaskan da'wah dan doa Nabi Nuh a.s.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/071.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/071.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/071Nuh.mp3"
+	},
+
+	{
+		"nomorsurat": 72,
+		"jumlahayat": 28,
+		"namasurat_ar": "الجن",
+		"namasurat_id": "Al-Jinn",
+		"artisurat_en": "The Jinn",
+		"artisurat_id": "Jin",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Jin terdiri atas 28 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al A'raaf. Dinamai Al Jin diambil dari perkataan Al Jin yang terdapat  pada ayat pertama surat ini. Pada ayat tersebut dan ayat-ayat berikutnya  diterangkan bahwa Jin sebagai makhluk halus telah mendengar pembacaan  Al Quran dan mereka mengikuti ajaran Al Quran tersebut.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/072.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/072.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/072AlJin.mp3"
+	},
+
+	{
+		"nomorsurat": 73,
+		"jumlahayat": 20,
+		"namasurat_ar": "المزمل",
+		"namasurat_id": "Al-Muzzammil",
+		"artisurat_en": "The Enshrouded One",
+		"artisurat_id": "Orang Yang Berselimut",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Muzzammil terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Qalam.Dinamai Al Muzzammil (orang yang berselimut) diambil dari perkataan Al Muzzammil yang terdapat pada ayat pertama surat ini. Yang dimaksud dengan orang yang berkemul ialah Nabi Muhammad s.a.w.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/073.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/073.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/073AlMuzzammil.mp3"
+	},
+
+	{
+		"nomorsurat": 74,
+		"jumlahayat": 56,
+		"namasurat_ar": "المدثر",
+		"namasurat_id": "Al-Muddassir",
+		"artisurat_en": "The Cloaked One",
+		"artisurat_id": "Orang Yang Berkemul",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Muddatstsir terdiri atas 56 ayat, termasuk golongan  surat-surat Makkiyah, diturunkan sesudah surat Al Muzzammil. \tDinamai Al Muddatstsir (orang yang berkemul) diambil dari perkataan Al Muddatstsir yang terdapat pada ayat pertama surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/074.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/074.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/074AlMuddatstsir.mp3"
+	},
+
+	{
+		"nomorsurat": 75,
+		"jumlahayat": 40,
+		"namasurat_ar": "القيامة",
+		"namasurat_id": "Al-Qiyamah",
+		"artisurat_en": "The Resurrection",
+		"artisurat_id": "Hari Kiamat",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Qiyaamah terdiri atas 40 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Qaari'ah. Dinamai Al Qiyaamah (hari kiamat) diambil dari perkataan Al Qiyaamah yang terdapat pada ayat pertama surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/075.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/075.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/075AlQiyaamah.mp3"
+	},
+
+	{
+		"nomorsurat": 76,
+		"jumlahayat": 31,
+		"namasurat_ar": "الإنسان",
+		"namasurat_id": "Al-Insan",
+		"artisurat_en": "Man",
+		"artisurat_id": "Manusia",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Insaan terdiri atas 31 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ar Rahmaan. Dinamai al Insaan (manusia) diambil dari perkataan Al Insaan yang terdapat pada ayat pertama surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/076.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/076.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/076AlInsaan.mp3"
+	},
+
+	{
+		"nomorsurat": 77,
+		"jumlahayat": 50,
+		"namasurat_ar": "المرسلات",
+		"namasurat_id": "Al-Mursalat",
+		"artisurat_en": "The Emissaries",
+		"artisurat_id": "Malaikat Yang Diutus",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Mursalaat terdiri atas 50 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Humazah. Dinamai Al Mursalaat (Malaikat-Malaikat yang diutus), diambil dari perkataan Al Mursalaat yang terdapat pada ayat pertama surat ini. Dinamai juga Amma yatasaa aluun diambil dari perkataan Amma yatasaa aluun yang terdapat pada ayat 1 surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/077.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/077.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/077AlMursalaat.mp3"
+	},
+
+	{
+		"nomorsurat": 78,
+		"jumlahayat": 40,
+		"namasurat_ar": "النبأ",
+		"namasurat_id": "An-Naba'",
+		"artisurat_en": "The Announcement",
+		"artisurat_id": "Berita Besar",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat An Naba´ terdiri atas 40 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Ma´aarij. Dinamai An Naba´ (berita besar) diambil dari perkataan An Naba´ yang terdapat pada ayat 2 surat ini. Dinamai juga Amma yatasaa aluun diambil dari perkataan Amma yatasaa aluun yang terdapat pada ayat 1 surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/078.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/078.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/078AnNaba.mp3"
+	},
+
+	{
+		"nomorsurat": 79,
+		"jumlahayat": 46,
+		"namasurat_ar": "النازعات",
+		"namasurat_id": "An-Nazi'at",
+		"artisurat_en": "Those who drag forth",
+		"artisurat_id": "Malaikat Yang Mencabut",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat An Naazi´aat terdiri atas 46 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An Naba´. Dinamai An Naazi´aat diambil dari perkataan An Naazi´aat yang terdapat pada ayat pertama surat ini. Dinamai pula as Saahirah yang diambil dari ayat 14, dinamai juga Ath Thaammah diambil dari ayat 34.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/079.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/079.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/079AnNaaziaat.mp3"
+	},
+
+	{
+		"nomorsurat": 80,
+		"jumlahayat": 42,
+		"namasurat_ar": "عبس",
+		"namasurat_id": "'Abasa",
+		"artisurat_en": "He frowned",
+		"artisurat_id": "Bermuka Masam",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat 'Abasa terdiri atas 42 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat An Najm. Dinamai 'Abasa  diambil dari perkataan 'Abasa yang terdapat pada ayat pertama surat ini. Menurut riwayat, pada suatu ketika Rasulullah s.a.w. menerima dan berbicara dengan pemuka-pemuka Quraisy yang beliau harapkan agar mereka masuk Islam. Dalam pada itu datanglah Ibnu Ummi Maktum, seorang sahabat yang buta yang mengharap agar Rasulullah s.a.w. membacakan kepadanya ayat- ayat Al Quran yang telah diturunkan Allah. tetapi Rasulullah s.a.w. bermuka masam dan memalingkan muka dari Ibnu Ummi Maktum yang buta itu, lalu Allah menurunkan surat ini sebagai teguran atas sikap Rasulullah terhadap ibnu Ummi Maktum itu.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/080.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/080.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/080Abasa.mp3"
+	},
+
+	{
+		"nomorsurat": 81,
+		"jumlahayat": 29,
+		"namasurat_ar": "التكوير",
+		"namasurat_id": "At-Takwir",
+		"artisurat_en": "The Overthrowing",
+		"artisurat_id": "Penggulungan",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat At Takwir terdiri atas 29 ayat dan termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Masadd. Kata At Takwir (terbelah) yang menjadi nama bagi surat ini adalah dari kata asal (mashdar) dari kata kerja kuwwirat (digulung) yang terdapat pada ayat pertama surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/081.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/081.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/081AtTakwiir.mp3"
+	},
+
+	{
+		"nomorsurat": 82,
+		"jumlahayat": 19,
+		"namasurat_ar": "الإنفطار",
+		"namasurat_id": "Al-Infitar",
+		"artisurat_en": "The Cleaving",
+		"artisurat_id": "Terbelah",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat An Naazi'aat. Al Infithaar yang dijadikan  nama untuk surat ini adalah kata asal dari kata Infatharat (terbelah)  yang terdapat pada ayat pertama.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/082.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/082.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/082AlInfithaar.mp3"
+	},
+
+	{
+		"nomorsurat": 83,
+		"jumlahayat": 36,
+		"namasurat_ar": "المطففين",
+		"namasurat_id": "Al-Mutaffifin",
+		"artisurat_en": "Defrauding",
+		"artisurat_id": "Orang-Orang Curang",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 36 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al 'Ankabuut dan merupakan  surat yang terakhir di Mekkah sebelum hijrah. Al Muthaffifiin  yang dijadikan nama bagi surat ini diambil dari kata  Al Muthaffifiin yang terdapat pada ayat pertama.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/083.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/083.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/083AlMuthaffifin.mp3"
+	},
+
+	{
+		"nomorsurat": 84,
+		"jumlahayat": 25,
+		"namasurat_ar": "الإنشقاق",
+		"namasurat_id": "Al-Insyiqaq",
+		"artisurat_en": "The Splitting Open",
+		"artisurat_id": "Terbelah",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Insyiqaaq, terdiri atas 25 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Infithaarr. Dinamai Al Insyiqaaq (terbelah), diambil dari perkataan Insyaqqat yang terdapat pada permulaan surat ini, yang pokok katanya ialah insyiqaaq.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/084.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/084.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/084AlInsyiqaaq.mp3"
+	},
+
+	{
+		"nomorsurat": 85,
+		"jumlahayat": 22,
+		"namasurat_ar": "البروج",
+		"namasurat_id": "Al-Buruj",
+		"artisurat_en": "The Constellations",
+		"artisurat_id": "Gugusan Bintang",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Buruuj terdiri atas 22 ayat, termasuk golongan surat-surat Makkiyyah diturunkan sesudah surat Asy-Syams.Dinamai Al Buruuj (gugusan bintang) diambil dari perkataan Al Buruuj yang terdapat pada ayat 1 surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/085.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/085.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/085AlBuruuj.mp3"
+	},
+
+	{
+		"nomorsurat": 86,
+		"jumlahayat": 17,
+		"namasurat_ar": "الطارق",
+		"namasurat_id": "At-Tariq",
+		"artisurat_en": "The Morning Star",
+		"artisurat_id": "Yang Datang Di Malam Hari",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Ath Thaariq terdiri atas 17 ayat, termasuk golongan surat-surat Makkiyah,  diturunkan sesudah surat Al Balad.  Dinamai Ath Thaariq (yang datang di malam hari) diambil dari  perkataan Ath Thaariq yang terdapat pada ayat 1 surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/086.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/086.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/086AthThaariq.mp3"
+	},
+
+	{
+		"nomorsurat": 87,
+		"jumlahayat": 19,
+		"namasurat_ar": "الأعلى",
+		"namasurat_id": "Al-A'la",
+		"artisurat_en": "The Most High",
+		"artisurat_id": "Maha Tinggi",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyyah, dan diturunkan sesudah surat At Takwiir. Nama Al A´laa diambil dari kata Al A´laa yang terdapat pada ayat pertama, berarti Yang Paling Tinggi. Muslim meriwayatkan dalam kitab Al Jumu'ah, dan diriwayatkan pula oleh Ashhaabus Sunan, dari Nu'man ibnu Basyir bahwa Rasulullah s.a.w. pada shalat dua hari Raya (Fitri dan Adha) dan shalat Jum'at membaca surat Al A´laa pada rakaat pertama, dan surat Al Ghaasyiyah pada rakaat kedua.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/087.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/087.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/087AlAalaa.mp3"
+	},
+
+	{
+		"nomorsurat": 88,
+		"jumlahayat": 26,
+		"namasurat_ar": "الغاشية",
+		"namasurat_id": "Al-Gasyiyah",
+		"artisurat_en": "The Overwhelming",
+		"artisurat_id": "Hari Kiamat",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 26 ayat, termasuk surat-surat Makkiyah, diturunkan sesudah surat Adz Dzaariat. Nama Ghaasyiyah diambil dari kata Al Ghaasyiyah yang terdapat pada ayat pertama surat ini yang  artinya peristiwa yang dahsyat, tapi yang dimaksud adalah hari kiamat. Surat ini adalah surat yang kerap kali dibaca Nabi pada rakaat kedua  pada shalat hari-hari Raya dan shalat Jum'at",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/088.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/088.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/088AlGhaasyiyah.mp3"
+	},
+
+	{
+		"nomorsurat": 89,
+		"jumlahayat": 30,
+		"namasurat_ar": "الفجر",
+		"namasurat_id": "Al-Fajr",
+		"artisurat_en": "The Dawn",
+		"artisurat_id": "Fajar",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 30 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Lail. Nama Al Fajr diambil dari kata Al Fajr yang terdapat pada ayat pertama surat ini yang artinya fajar.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/089.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/089.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/089AlFajr.mp3"
+	},
+
+	{
+		"nomorsurat": 90,
+		"jumlahayat": 20,
+		"namasurat_ar": "البلد",
+		"namasurat_id": "Al-Balad",
+		"artisurat_en": "The City",
+		"artisurat_id": "Negeri",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Balad terdiri atas 20 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Qaaf. Dinamai Al Balad, diambil dari perkataan Al Balad yang terdapat  pada ayat pertama surat ini. Yang dimaksud dengan kota di sini ialah kota Mekah.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/090.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/090.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/090AlBalad.mp3"
+	},
+
+	{
+		"nomorsurat": 91,
+		"jumlahayat": 15,
+		"namasurat_ar": "الشمس",
+		"namasurat_id": "Asy-Syams",
+		"artisurat_en": "The Sun",
+		"artisurat_id": "Matahari",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Asy Syams terdiri atas 15 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qadar.  Dinamai Asy Syams (matahari) diambil dari perkataan Asy Syams yang terdapat pada ayat permulaan surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/091.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/091.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/091AsySyams.mp3"
+	},
+
+	{
+		"nomorsurat": 92,
+		"jumlahayat": 21,
+		"namasurat_ar": "الليل",
+		"namasurat_id": "Al-Lail",
+		"artisurat_en": "The Night",
+		"artisurat_id": "Malam",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 21 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al A'laa. Surat ini dinamai Al Lail (malam), diambil dari perkataan Al Lail yang terdapat pada ayat pertama surat ini",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/092.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/092.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/092AlLail.mp3"
+	},
+
+	{
+		"nomorsurat": 93,
+		"jumlahayat": 11,
+		"namasurat_ar": "الضحى",
+		"namasurat_id": "Ad-Duha",
+		"artisurat_en": "The Morning Hours",
+		"artisurat_id": "Duha",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 11 ayat, termasuk golongan surat Makiyyah dan diturunkan sesudah surat Al Fajr. Nama Adh Dhuhaa diambil dari kata yang terdapat pada ayat pertama, artinya : waktu matahari sepenggalahan naik.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/093.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/093.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/093AdhDhuhaa.mp3"
+	},
+
+	{
+		"nomorsurat": 94,
+		"jumlahayat": 8,
+		"namasurat_ar": "الشرح",
+		"namasurat_id": "Asy-Syarh",
+		"artisurat_en": "The Consolation",
+		"artisurat_id": "Lapang",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah dan diturunkan sesudah surat Adh Dhuhaa. Nama Alam Nasyrah diambil dari kata Alam Nasyrah yang terdapat pada ayat pertama, yang berarti: bukankah Kami telah melapangkan.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/094.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/094.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/094AlamNasyrah.mp3"
+	},
+
+	{
+		"nomorsurat": 95,
+		"jumlahayat": 8,
+		"namasurat_ar": "التين",
+		"namasurat_id": "At-Tin",
+		"artisurat_en": "The Fig",
+		"artisurat_id": "Buah Tin",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Buruuj. Nama At Tiin diambil dari kata At Tiin yang terdapat pada ayat pertama surat ini yang artinya buah Tin.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/095.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/095.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/095AtTiin.mp3"
+	},
+
+	{
+		"nomorsurat": 96,
+		"jumlahayat": 19,
+		"namasurat_ar": "العلق",
+		"namasurat_id": "Al-'Alaq",
+		"artisurat_en": "The Clot",
+		"artisurat_id": "Segumpal Darah",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al 'Alaq terdiri atas 19 ayat, termasuk golongan surat-surat Makkiyah. Ayat 1 sampai dengan 5 dari surat ini adalah ayat-ayat Al Quran yang pertama sekali diturunkan, yaitu di waktu Nabi Muhammad s.a.w. berkhalwat di gua Hira'. Surat ini dinamai Al 'Alaq (segumpal darah), diambil dari perkataan Alaq yang terdapat pada ayat 2 surat ini. Surat ini dinamai juga dengan Iqra atau Al Qalam.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/096.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/096.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/096AlAlaq.mp3"
+	},
+
+	{
+		"nomorsurat": 97,
+		"jumlahayat": 5,
+		"namasurat_ar": "القدر",
+		"namasurat_id": "Al-Qadr",
+		"artisurat_en": "The Power, Fate",
+		"artisurat_id": "Kemuliaan",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Qadr terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat 'Abasa. Surat ini dinamai Al Qadr (kemuliaan), diambil dari perkataan Al Qadr yang terdapat pada ayat pertama surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/097.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/097.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/097AlQadr.mp3"
+	},
+
+	{
+		"nomorsurat": 98,
+		"jumlahayat": 8,
+		"namasurat_ar": "البينة",
+		"namasurat_id": "Al-Bayyinah",
+		"artisurat_en": "The Evidence",
+		"artisurat_id": "Bukti Nyata",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat Al Bayyinah terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah, diturunkan sesudah surat Ath Thalaq. Dinamai Al Bayyinah (bukti yang nyata) diambil dari perkataan Al Bayyinah yang terdapat pada ayat pertama surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/098.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/098.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/098AlBayyinah.mp3"
+	},
+
+	{
+		"nomorsurat": 99,
+		"jumlahayat": 8,
+		"namasurat_ar": "الزلزلة",
+		"namasurat_id": "Az-Zalzalah",
+		"artisurat_en": "The Earthquake",
+		"artisurat_id": "Guncangan",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Madaniyyah diturunkan sesudah surat An Nisaa'. Nama Al Zalzalah diambil dari kata: Zilzaal yang terdapat pada ayat pertama surat ini yang berarti goncangan.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/099.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/099.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/099AlZalzalah.mp3"
+	},
+
+	{
+		"nomorsurat": 100,
+		"jumlahayat": 11,
+		"namasurat_ar": "العاديات",
+		"namasurat_id": "Al-'Adiyat",
+		"artisurat_en": "The Chargers",
+		"artisurat_id": "Kuda Yang Berlari Kencang",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al'Ashr. Nama Al 'Aadiyaat diambil dari kata Al 'Aadiyaat yang terdapat pada ayat pertama surat ini, artinya yang berlari kencang.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/100.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/100.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/100AlAadiyaat.mp3"
+	},
+
+	{
+		"nomorsurat": 101,
+		"jumlahayat": 11,
+		"namasurat_ar": "القارعة",
+		"namasurat_id": "Al-Qari'ah",
+		"artisurat_en": "The Calamity",
+		"artisurat_id": "Hari Kiamat",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 11 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Quraisy. Nama Al Qaari'ah diambil dari kata Al Qaari'ah yang terdapat pada ayat pertama, artinya mengetok dengan keras, kemudian kata ini dipakai untuk nama hari kiamat.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/101.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/101.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/101AlQaariah.mp3"
+	},
+
+	{
+		"nomorsurat": 102,
+		"jumlahayat": 8,
+		"namasurat_ar": "التكاثر",
+		"namasurat_id": "At-Takasur",
+		"artisurat_en": "Competition",
+		"artisurat_id": "Bermegah-Megahan",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat At Takaatsur terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kautsar. Dinamai At Takaatsur (bermegah-megahan) diambil dari perkataan At Takaatsur yang terdapat pada ayat pertama surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/102.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/102.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/102AtTakaatsur.mp3"
+	},
+
+	{
+		"nomorsurat": 103,
+		"jumlahayat": 3,
+		"namasurat_ar": "العصر",
+		"namasurat_id": "Al-'Asr",
+		"artisurat_en": "The Declining Day, Epoch",
+		"artisurat_id": "Asar",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al 'Ashr terdiri atas 3 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Alam Nasyrah. Dinamai Al 'Ashr (masa) diambil dari perkataan Al 'Ashr yang terdapat pada ayat pertama surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/103.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/103.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/103AlAshr.mp3"
+	},
+
+	{
+		"nomorsurat": 104,
+		"jumlahayat": 9,
+		"namasurat_ar": "الهمزة",
+		"namasurat_id": "Al-Humazah",
+		"artisurat_en": "The Traducer",
+		"artisurat_id": "Pengumpat",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Humazah terdiri atas 9 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Qiyaamah. Dinamai Al Humazah (pengumpat) diambil dari perkataan Humazah yang terdapat pada ayat pertama surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/104.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/104.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/104AlHumazah.mp3"
+	},
+
+	{
+		"nomorsurat": 105,
+		"jumlahayat": 5,
+		"namasurat_ar": "الفيل",
+		"namasurat_id": "Al-Fil",
+		"artisurat_en": "The Elephant",
+		"artisurat_id": "Gajah",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Al Kaafirun. Nama Al Fiil diambil dari kata Al Fiil yang terdapat pada ayat pertama surat ini, artinya gajah. Surat Al Fiil mengemukakan cerita pasukan bergajah dari Yaman yang dipimpin oleh Abrahah yang ingin meruntuhkan Ka'bah di Mekah. Peristiwa ini terjadi pada tahun Nabi Muhammad s.a.w. dilahirkan.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/105.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/105.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/105AlFiil.mp3"
+	},
+
+	{
+		"nomorsurat": 106,
+		"jumlahayat": 4,
+		"namasurat_ar": "قريش",
+		"namasurat_id": "Quraisy",
+		"artisurat_en": "Quraysh",
+		"artisurat_id": "Quraisy",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat Makkiyyah dan diturunkan sesudah surat At Tiin. Nama Quraisy diambil dari kata Quraisy yang terdapat pada ayat pertama, artinya suku Quraisy. Suku Quraisy adalah suku yang mendapat  kehormatan untuk memelihara Ka'bah.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/106.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/106.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/106Quraisy.mp3"
+	},
+
+	{
+		"nomorsurat": 107,
+		"jumlahayat": 7,
+		"namasurat_ar": "الماعون",
+		"namasurat_id": "Al-Ma'un",
+		"artisurat_en": "Almsgiving",
+		"artisurat_id": "Barang Yang Berguna",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 7 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat At Taakatsur. Nama Al Maa'uun diambil dari kata Al Maa'uun yang terdapat pada ayat 7, artinya barang-barang yang berguna.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/107.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/107.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/107AlMaauun.mp3"
+	},
+
+	{
+		"nomorsurat": 108,
+		"jumlahayat": 3,
+		"namasurat_ar": "الكوثر",
+		"namasurat_id": "Al-Kausar",
+		"artisurat_en": "Abundance",
+		"artisurat_id": "Pemberian Yang Banyak",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Kautsar terdiri atas 3 ayat, termasuk golongan surat-surat  Makkiyyah diturunkan sesudah surat Al 'Aadiyaat. Dinamai Al Kautsar (nikmat yang banyak) diambil dari perkataan Al Kautsar yang terdapat pada ayat pertama surat ini.Surat ini sebagai penghibur hati Nabi Muhammad s.a.w.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/108.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/108.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/108AlKautsar.mp3"
+	},
+
+	{
+		"nomorsurat": 109,
+		"jumlahayat": 6,
+		"namasurat_ar": "الكافرون",
+		"namasurat_id": "Al-Kafirun",
+		"artisurat_en": "The Disbelievers",
+		"artisurat_id": "Orang-Orang kafir",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat Al Kaafiruun terdiri atas 6 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah surat Al Maa'uun. Dinamai Al Kaafiruun (orang-orang kafir), diambil dari perkataan  Al Kaafiruun yang terdapat pada ayat pertama surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/109.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/109.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/109AlKaafiruun.mp3"
+	},
+
+	{
+		"nomorsurat": 110,
+		"jumlahayat": 3,
+		"namasurat_ar": "النصر",
+		"namasurat_id": "An-Nasr",
+		"artisurat_en": "Divine Support",
+		"artisurat_id": "Pertolongan",
+		"jenissurat": "Madaniyah",
+		"ket_id": "Surat An Nashr terdiri atas 3 ayat, termasuk golongan surat-surat  Madaniyyah yang diturunkan di Mekah sesudah surat At Taubah.  Dinamai An Nashr (pertolongan) diambil dari perkataan Nashr yang  terdapat pada ayat pertama surat ini.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/110.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/110.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/110AnNashr.mp3"
+	},
+
+	{
+		"nomorsurat": 111,
+		"jumlahayat": 5,
+		"namasurat_ar": "المسد",
+		"namasurat_id": "Al-Lahab",
+		"artisurat_en": "The Palm Fibre",
+		"artisurat_id": "Api Yang Bergejolak",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah,  diturunkan sesudah surat Al Fath. Nama Al Lahab diambil dari kata  Al Lahab yang terdapat pada ayat ketiga surat ini yang artinya gejolak  api. Surat ini juga dinamakan surat Al Masad.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/111.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "ttps://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/111.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/111AlLahab.mp3"
+	},
+
+	{
+		"nomorsurat": 112,
+		"jumlahayat": 4,
+		"namasurat_ar": "الإخلاص",
+		"namasurat_id": "Al-Ikhlas",
+		"artisurat_en": "Sincerity",
+		"artisurat_id": "Ikhlas",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 4 ayat, termasuk golongan surat-surat  Makkiyyah, diturunkan sesudah sesudah surat An Naas. Dinamakan Al Ikhlas karena surat ini sepenuhnya menegaskan kemurnian keesaan Allah s.w.t.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/112.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/112.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/112AlIkhlash.mp3"
+	},
+
+	{
+		"nomorsurat": 113,
+		"jumlahayat": 5,
+		"namasurat_ar": "الفلق",
+		"namasurat_id": "Al-Falaq",
+		"artisurat_en": "The Dawn",
+		"artisurat_id": "Subuh",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Fiil. Nama Al Falaq diambil dari kata Al Falaq yang terdapat pada ayat pertama surat ini yang artinya waktu subuh. Diriwayatkan oleh Abu Daud, At Tirmizi dan An Nasa-i dari 'Uqbah bin 'Aamir bahwa Rasulullah s.a.w. bersembahyang dengan membaca surat Al Falaq  dan surat An Naas dalam perjalanan.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/113.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/113.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/113AlFalaq.mp3"
+	},
+
+	{
+		"nomorsurat": 114,
+		"jumlahayat": 6,
+		"namasurat_ar": "الناس",
+		"namasurat_id": "An-Nas",
+		"artisurat_en": "Mankind",
+		"artisurat_id": "Manusia",
+		"jenissurat": "Makkiyah",
+		"ket_id": "Surat ini terdiri atas 6 ayat, termasuk golongan surat-surat Makkiyah,  diturunkan sesudah surat Al Falaq. Nama An Naas diambil dari An Naas yang berulang kali disebut dalam surat ini yang artinya manusia.",
+		"linkisi":"",
+"syehlima": "",
+		"audiolima": "",
+		"syehempat": "",
+		"audioempat": "",
+		"syehtiga": "Saad al-Ghamdi",
+		"audiotiga": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/114.mp3",
+		"syehdua": "Abdur-Rahman as-Sudais",
+		"audiodua": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/114.mp3",
+		"syehsatu": "Mishari Rashid al-`Afasy",
+		"audiosatu": "https://ia802609.us.archive.org/13/items/quraninindonesia/114AnNaas.mp3"
+	}
+]
